@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
 import SideBar from "@/components/SideBar";
 import Quote from "@/components/Quote";
-import Link from "next/link";
+// import Link from "next/link";
 import Slider from "@/components/Slider";
 
 export default function Test() {

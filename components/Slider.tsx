@@ -1,9 +1,17 @@
 "use client"
 
+declare global {
+  interface Window { // ⚠️ notice that "Window" is capitalized here
+    $: string;
+    jQuery: string;
+  }
+}
+
 import React from "react";
-var $ = require('jquery');
+
 if (typeof window !== "undefined") {
-    window.$ = window.jQuery = require("jquery");
+  /* tslint:disable no-var-requires */ const $ = require('jquery');
+  /* tslint:disable no-var-requires */ window.$ = window.jQuery = require("jquery");
  } 
  
 //  import "owl.carousel/dist/assets/owl.carousel.css";
