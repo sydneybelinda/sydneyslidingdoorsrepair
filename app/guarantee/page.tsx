@@ -119,6 +119,10 @@ In our experience, we have found that the fasteners that attach the sides of the
 <li>Our customers want their doors to glide silently and smoothly – adding years to the life of the door and the rollers and tracks</li>
 </ul>
 
+<p>These are some the many benefits sydneyslidingdoorsrepair.com.au can guarantee our customers!
+
+</p>
+
 </div>
 
                 </div>
