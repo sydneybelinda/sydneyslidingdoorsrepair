@@ -1,13 +1,55 @@
-export default function Quote() {
-  
-    return (
+"use client";
 
-<section className="service-form-section alternat-2">
-<div className="icon-layer">
-  <img src="assets/images/icons/icon-14.png" alt="" />
-</div>
-<div className="auto-container">
-  <div className="service-form">
+import { sendMail } from '@/lib/send-email';
+import { toast } from 'sonner';
+import { useActionState } from "react";
+import { useFormStatus } from "react-dom";
+import { emailQuote } from '@/lib/actions';
+
+const initialState = {
+  message: "",
+};
+
+function SubmitButton() {
+  // const { pending } = useFormStatus();
+const pending=true;
+
+
+  return (
+                <button className="theme-btn-one" type="submit" name="submit-form" aria-disabled={pending}>
+                <span className="btn-shape" />
+                send message
+  
+              </button>
+  );
+}
+
+export default function Quote() {
+
+  const [state, formAction] = useActionState(emailQuote, initialState);
+
+
+
+  // async function createQuote(formData: FormData) {
+  //   'use server'
+ 
+  //   const rawFormData = {
+  //     name: formData.get('name'),
+  //     email: formData.get('email'),
+  //     phone: formData.get('phone'),
+  //     message: formData.get('message')
+  //   }
+
+  // }
+
+
+// }
+  
+ 
+  return (
+  <section className="contact-section">
+  <div className="auto-container">
+    <div className="inner-content">
     <div className="title-inner">
       <div className="text">
         <h2>Request a FREE Quote</h2>
@@ -18,68 +60,59 @@ export default function Quote() {
       </div>
 
     </div>
-    <div className="form-inner">
-      <form
-        action="index.html"
-        method="post"
-        className="request-form clearfix"
+  <form 
+      action={formAction}
+        id="contact-form"
+        className="default-form"
       >
-        <div className="form-group w-33">
-          <input
-            type="text"
-            className="mw-100"
-            name="name"
-            placeholder="Name"
-            required
-          />
-        </div>
-        <div className="form-group w-33">
-          <input
-           className="mw-100"
-            type="email"
-            name="email"
-            placeholder="Email"
-            required
-          />
-        </div>
-        <div className="form-group w-33">
-          <input
-           className="mw-100"
-            type="text"
-            name="phone"
-            placeholder="Phone"
-            required
-          />
+        <div className="row clearfix">
+          <div className="col-lg-4 col-md-6 col-sm-12 form-group">
+            <input
+              type="text"
+              name="name"
+              placeholder="Name *"
+              required
+            />
+          </div>
+          <div className="col-lg-4 col-md-6 col-sm-12 form-group">
+            <input
+              type="email"
+              name="email"
+              placeholder="Email *"
+              required
+            />
+          </div>
+          <div className="col-lg-4 col-md-12 col-sm-12 form-group">
+            <input type="text" name="phone" placeholder="Phone *" required />
+          </div>
+
+          <div className="col-lg-12 col-md-12 col-sm-12 form-group">
+            <input
+              type="text"
+              name="address"
+              placeholder="Address"
+              required
+            />
+          </div>
+
+          <div className="col-lg-12 col-md-12 col-sm-12 form-group">
+            <textarea
+              name="message"
+              placeholder="Your Message ..."
+              defaultValue={""}
+            />
+          </div>
+          <div className="col-lg-12 col-md-12 col-sm-12 form-group message-btn centred">
+
+            <SubmitButton />
+            <p aria-live="polite" className="sr-only" role="status">
+        {state?.message}
+      </p>
+          </div>
         </div>
 
-        <div className="form-group full-width">
-          <input
-           className="mw-100"
-            type="text"
-            name="address"
-            placeholder="Address"
-            required
-          />
-        </div>
-        {/* <div className="form-group full-width">
-          <textarea
-           className="mw-100"
-            type="text"
-            name="description"
-            placeholder="Please provide a description of the work"
-            required
-          />
-        </div> */}
-
-        <div className="message-btn">
-          <button type="submit" className="theme-btn-one">
-            <span className="btn-shape" />
-            send
-          </button>
-        </div>
       </form>
     </div>
   </div>
-</div>
-</section>
-    )}
+</section>)
+}

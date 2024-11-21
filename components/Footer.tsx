@@ -81,27 +81,42 @@ export default function Footer() {
       <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
         <div className="footer-widget links-widget">
           <div className="widget-title">
-            <h3>About Us</h3>
+            <h3>Locations</h3>
           </div>
           <div className="widget-content">
             <ul className="links-list clearfix">
               <li>
-                <a href="index.html">Service Locations</a>
+                <a href="/locations/bondi">Bondi</a>
               </li>
               <li>
-                <a href="index.html">Career Opportunities</a>
+                <a href="/locations/glebe">Glebe</a>
               </li>
               <li>
-                <a href="index.html">Training Center</a>
+                <a href="/locations/leichardt">Leichardt</a>
               </li>
               <li>
-                <a href="index.html">Safety Commitment</a>
+                <a href="/locations/newtown">Newtown</a>
               </li>
               <li>
-                <a href="index.html">Photo Gallery</a>
+                <a href="/locations/parramatta">Parramatta</a>
               </li>
               <li>
-                <a href="index.html">Download Center</a>
+                <a href="/locations/randwick">Randwick</a>
+              </li>
+              <li>
+                <a href="/locations/st-george">St. George</a>
+              </li>
+              <li>
+                <a href="/locations/strathfield">Strathfield</a>
+              </li>
+              <li>
+                <a href="/locations/sutherland">Sutherland</a>
+              </li>
+              <li>
+                <a href="/locations/sydney">Sydney City</a>
+              </li>
+              <li>
+                <a href="/locations/woolahra">Woolahra</a>
               </li>
             </ul>
           </div>
@@ -119,7 +134,7 @@ export default function Footer() {
                 <a href="tel:0401349821">0401 349 821</a>
               </li>
               <li>
-                <a href="mailto:support@example.com">
+                <a href="mailto:sales@sydneyslidingdoorsrepair.com.au">
                 sales@sydneyslidingdoorsrepair.com.au
                 </a>
               </li>

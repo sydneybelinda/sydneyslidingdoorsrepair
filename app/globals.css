@@ -94,3 +94,29 @@ a {
 
 }
 
+.mb-20{
+  margin-bottom: 20px;
+}
+
+.mt-50 {margin-top: 50px;}
+
+.testimonial-block-one .inner-box .author-box .rating li:last-child {
+
+  color: #6de5f2 !important;
+}
+
+.contact-section .error {
+  padding-left: 30px;
+  color: red;
+}
+
+.sr-only{ 
+  height: auto !important;
+  width: auto !important;
+  position: relative !important;
+}
+.quotefail {color:red; margin-top:20px}
+.quotesucces {color: green; margin-top:20px}
+
+.main-sidebar{padding-top:110px}
+

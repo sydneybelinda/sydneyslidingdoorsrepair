@@ -102,7 +102,7 @@ export default function Header() {
             <div className="logo-box pull-left">
               <figure className="logo">
                 <Link href="/">
-                  <img src="assets/images/logo.png" alt=""
+                  <img src="/assets/images/logo.png" alt=""
                   className="logo" />
                 </Link>
               </figure>
@@ -140,7 +140,7 @@ export default function Header() {
                       <a href="contact.html">FAQ</a>
                     </li> */}
                     <li className="current dropdown">
-                      <a href="index.html">FAQ</a>
+                      <a>FAQ</a>
                       <ul>
                         <li>
                           <a href="/faqs/faqs-general">General FAQs</a>
@@ -196,7 +196,7 @@ export default function Header() {
                   </div>
                 </div> */}
                 <div className="btn-box">
-                  <a href="index.html" className="theme-btn-one">
+                  <a href="/quote" className="theme-btn-one">
                     <span className="btn-shape" />
                     Free quote
                   </a>
@@ -212,11 +212,11 @@ export default function Header() {
           <div className="outer-box clearfix">
             <div className="logo-box pull-left">
               <figure className="logo">
-                <a href="index.html">
-                  <img src="assets/images/small-logo.png" alt="" 
+                <Link href="/">
+                  <img src="/assets/images/small-logo.png" alt="" 
                   className="logo"
                   />
-                </a>
+                </Link>
               </figure>
             </div>
             <div className="menu-area pull-right">
@@ -260,7 +260,7 @@ export default function Header() {
                   </div>
                 </div> */}
                 <div className="btn-box">
-                  <a href="index.html" className="theme-btn-one">
+                  <a href="/quote" className="theme-btn-one">
                     <span className="btn-shape" />
                     Freee quote
                   </a>
@@ -290,12 +290,14 @@ export default function Header() {
         <div className="contact-info">
           <h4>Contact Info</h4>
           <ul>
-            <li>Chicago 12, Melborne City, USA</li>
+            <li>Minogue Cres <br/>Forest Lodge  NSW  2037</li>
             <li>
-              <a href="tel:+8801682648101">+88 01682648101</a>
+            <a href="tel:0401349821">0401 349 821</a>
             </li>
             <li>
-              <a href="mailto:info@example.com">info@example.com</a>
+            <a href="mailto:sales@sydneyslidingdoorsrepair.com.au">
+                sales@sydneyslidingdoorsrepair.com.au
+                </a>
             </li>
           </ul>
         </div>

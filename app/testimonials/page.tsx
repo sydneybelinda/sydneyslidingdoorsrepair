@@ -42,114 +42,391 @@ export default function Testimonials(){
     </section>
     {/* End Page Title */} 
     {/* service-details */}
-    <section className="service-details">
-      <div className="auto-container">
-        <div className="row clearfix">
-          <div className="col-lg-8 col-md-12 col-sm-12 content-side">
+    <div className="auto-container">
+    <div className="row clearfix">
+  <div className="col-lg-8 col-md-12 col-sm-12 content-side">
+  <section className="service-details">
+
             <div className="service-details-content">
               <div className="content-one">
-                <figure className="image-box">
-                  <img src="assets/images/door7.jpg" alt="" />
-                </figure>
                 <div className="text">
-                  <h2>We Can Help You Get Your Sliding Door Fixed Fast</h2>
+                  <h2>Read rour client reviews</h2>
                   <h3>
-                  We are the foremost specialists in sliding door repairs and allsliding door technology systems in the Sydney area
+                  We are the foremost specialists in door repairs and all door technology systems in the Sydney area
                   </h3>
                   <p>
-                  Did you know that there is no need to undergo an expensive replacement of your jammed or hard-to-open door? sydneyslidingdoorsrepair.com.au can save you thousands of dollars by carrying out a repair on your problem door, today.
+                  <a href="https://sydneyslidingdoorsrepair.com.au">Sydneyslidingdooorsrepair.com.au</a> has been established and working in the Sydney area since 1992. Our superior technology and highest quality products for all door repairs have been formulated by years of trials and experimentation. Our door technology systems are the best in our field, making us the market leader in all domestic and commercial contexts.
+                  </p>
+                  <p>
+                  <a href="https://sydneyslidingdoorsrepair.com.au">Sydneyslidingdooorsrepair.com.au</a> carries the most comprehensive stocks of all the leading brands of doors and associated door equipment for the following contexts:
                   </p>
                 </div>
               </div>
-              <div className="two-column">
-                <figure className="image-box">
-                  <img src="assets/images/door8.jpg" alt=""
-                  className="mh-300" />
-                </figure>
-                <div className="inner-box sd">
 
-                <ul>
-                  <li>Aluminium doors</li>
-<li>Sliding windows</li>
-<li>Locks</li>
-<li>Fire Doors</li>
-<li>Joinery Doors</li>
-<li>Roller Doors (but not garage roller doors)</li>
-<li>Security Doors</li>
-<li>Sliding Doors</li>
-<li>Timber Doors</li>
-                  </ul>
+              <div className="testimonial-inner">
+              {/* <div className="two-column-carousel owl-carousel owl-theme owl-dots-none owl-nav-none"> */}
+                <div className="testimonial-block-one">
+                  <div className="inner-box">
+                    <div className="text">
+                      <figure className="icon-1">
+                        <img src="assets/images/icons/icon-7.png" alt="" />
+                      </figure>
+                      <figure className="icon-2">
+                        <img src="assets/images/icons/icon-8.png" alt="" />
+                      </figure>
+                      <p className="mb-20">
+                      I&aposve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!</p>
+                      <p className="mb-20">
+They diligently and thoroughly disassembled the door and replaced all the broken and worn parts. An hour or so later the door was working perfectly. Yes, it was expensive, but it was worth it. Adsafe Door&aposs has given me a sliding door that will work beautifully for years and because I don&apost have to replace it with a new door, they saved me thousands of dollars in the process. Congratulations.
 
+                      </p>
+
+                      <div className="author-box mt-50">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/resource/testimonial-1.png"
+                          alt=""
+                        />
+                      </figure>
+                      <h4>Stuart Pearson</h4>
+                      <span className="designation">Sydney</span>
+                      <ul className="rating clearfix">
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                      </ul>
+                    </div>
+                    </div>
+
+                  </div>
                 </div>
-              </div>
-              <div className="content-two">
-                <div className="text">
-                  <h3>Our Specialties:</h3>
 
-                  <ul>
-                  <li>Replacement doors</li>
-<li>Sliding door repairs</li>
-<li>Door closer repair and installation</li>
-<li>Fire doors and frames</li>
 
-                  </ul>
-                  <p className="mt-22">
-                  Our innovative and technologically superior door repair systems, together with 30 years of experience is the answer to all your door repairs.
-                  </p>
-                  <p>
-                  You cannot afford to take chances with the safety of your loved ones, especially when the primary entrances to your home are vulnerable because of faults and repair needs.
-                  </p>
-                  <p>
-                  If you’ve ever known someone who’s experienced a burglary – you’ll appreciate the trauma and fear associated with the fact that an intruder has violated the sanctity of your privacy and potentially, threatened your security and safety.
-                  </p>
-                  <p>
-                  sydneyslidingdoorsrepair.com.au have been attending to all forms of door repairs for the last thirty years. Our technology is designed to address every issue associated with door repairs.
-                  </p>
-                  <p>
-                  Our friendly and experienced tradesmen specialise in door repairs and replacements. However, wherever possible, we will save you thousands of dollars by restoring your door rather than replacing it.
-                  </p>
-                  <p>
-                  We have thirty years of comprehensive experience in commercial, industrial and domestic door repairs. Listed below is our full range of door repair services.
-                  </p>
+                <div className="testimonial-block-one">
+                  <div className="inner-box">
+                    <div className="text">
+                      <figure className="icon-1">
+                        <img src="assets/images/icons/icon-7.png" alt="" />
+                      </figure>
+                      <figure className="icon-2">
+                        <img src="assets/images/icons/icon-8.png" alt="" />
+                      </figure>
+                      <p className="mb-20">
+                      My house is around 15 years old and the sliding door at the side of the house was not operating as it should. It is quite a heavy door and it was coming off the tracks when we tried to open and close it. We actually got to the stage that because of this problem, and having to lift the door back onto the track all the time, we avoided using it at all. This was a problem in summer when we need more ventilation.</p>
+                      <p className="mb-20">
+                      The fact is, we didn’t think we could afford a new door – especially one of the same quality as the existing door.
 
-                  <ul>
-                  <li>Sliding door repairs – both wooden and aluminium</li>
-<li>Door closers</li>
-<li>Door closer installation and replacement</li>
-<li>Fire doors</li>
-<li>Wooden entrance doors</li>
-<li>Sliding window repairs</li>
+                      </p>
 
-                  </ul>
+                      <p className="mb-20">
+                      However, I called sydneyslidingdoorsrepair.com.au and got some very valuable advice over the phone. They were happy to give me a free quote. When the technician arrived, I peeped into his van and realised that he had a huge range of different rollers and tracks etc.
+
+                        </p>
+
+                        <p className="mb-20">
+                        He made me feel very confident that he could fix the door for what I thought was a reasonable price under the circumstances. He dismantled the door and replaced the worn-out parts. In a few hours, the door was working again as it had when I first bought the house.
+                          </p>
+
+                          <p className="mb-20">
+                          I was very impressed and my door is working perfectly.
+                            </p>
+
+                      <div className="author-box mt-50">
+                      <figure className="image-box">
+                        <img
+                          src="assets/images/resource/testimonial-1.png"
+                          alt=""
+                        />
+                      </figure>
+                      <h4>Alexis Brandon</h4>
+                      <span className="designation">Waterloo</span>
+                      <ul className="rating clearfix">
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                      </ul>
+                    </div>
+                    </div>
+
+                  </div>
                 </div>
-              </div>
+                <div className="testimonial-block-one">
+                  <div className="inner-box">
+                    <div className="text">
+                      <figure className="icon-1">
+                        <img src="assets/images/icons/icon-7.png" alt="" />
+                      </figure>
+                      <figure className="icon-2">
+                        <img src="assets/images/icons/icon-8.png" alt="" />
+                      </figure>
+                      <p className="mb-20">
+                      5 stars &quot;I&aposve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!</p>
+                      <p className="mb-20">
+They diligently and thoroughly disassembled the door and replaced all the broken and worn parts. An hour or so later the door was working perfectly. Yes, it was expensive, but it was worth it. Adsafe Door&aposs has given me a sliding door that will work beautifully for years and because I don&apost have to replace it with a new door, they saved me thousands of dollars in the process. Congratulations.
 
-              <div className="content-two">
-                <div className="text">
-                  <h3 className="jamhead">Is your door jamming, or sticking? Is it unable to slide properly?</h3>
+                      </p>
 
-                  
-                  <p className="mt-22">
-                  No matter what the problem with your door, sydneyslidingdoorsrepair.com.au can assist you and carry out the full range of door repair services in the Sydney area.
-                  </p>
-                  <p>
-                  Why not call 0401 349 821 and talk to one of our friendly staff who will assist you with all your enquiries today. Our servicemen cover the whole of the Sydney metropolitan area so don’t hesitate to contact us today.
-                  </p>
-                  <p>
-                  sydneyslidingdoorsrepair.com.au has been operating in the Sydney metropolitan area since 1980. Over the years, we have accumulated a wealth of knowledge and experience in all door repairs and replacement. We deal with homes, shops, offices, factories and all commercial premises. Our advice on door repairs is second to none.
-                  </p>
-                
+                      <div className="author-box mt-50">
+                      <figure className="image-box">
+                        <img
+                          src="assets/images/resource/testimonial-1.png"
+                          alt=""
+                        />
+                      </figure>
+                      <h4>Stuart Pearson</h4>
+                      <span className="designation">Sydney</span>
+                      <ul className="rating clearfix">
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                      </ul>
+                    </div>
+                    </div>
+
+                  </div>
                 </div>
-              </div>
+                <div className="testimonial-block-one">
+                  <div className="inner-box">
+                    <div className="text">
+                      <figure className="icon-1">
+                        <img src="assets/images/icons/icon-7.png" alt="" />
+                      </figure>
+                      <figure className="icon-2">
+                        <img src="assets/images/icons/icon-8.png" alt="" />
+                      </figure>
+                      <p className="mb-20">
+                      5 stars &quot;I&aposve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!</p>
+                      <p className="mb-20">
+They diligently and thoroughly disassembled the door and replaced all the broken and worn parts. An hour or so later the door was working perfectly. Yes, it was expensive, but it was worth it. Adsafe Door&aposs has given me a sliding door that will work beautifully for years and because I don&apost have to replace it with a new door, they saved me thousands of dollars in the process. Congratulations.
 
+                      </p>
+
+                      <div className="author-box mt-50">
+                      <figure className="image-box">
+                        <img
+                          src="assets/images/resource/testimonial-1.png"
+                          alt=""
+                        />
+                      </figure>
+                      <h4>Stuart Pearson</h4>
+                      <span className="designation">Sydney</span>
+                      <ul className="rating clearfix">
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                      </ul>
+                    </div>
+                    </div>
+
+                  </div>
+                </div>
+                <div className="testimonial-block-one">
+                  <div className="inner-box">
+                    <div className="text">
+                      <figure className="icon-1">
+                        <img src="assets/images/icons/icon-7.png" alt="" />
+                      </figure>
+                      <figure className="icon-2">
+                        <img src="assets/images/icons/icon-8.png" alt="" />
+                      </figure>
+                      <p className="mb-20">
+                      5 stars &quot;I&aposve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!</p>
+                      <p className="mb-20">
+They diligently and thoroughly disassembled the door and replaced all the broken and worn parts. An hour or so later the door was working perfectly. Yes, it was expensive, but it was worth it. Adsafe Door&aposs has given me a sliding door that will work beautifully for years and because I don&apost have to replace it with a new door, they saved me thousands of dollars in the process. Congratulations.
+
+                      </p>
+
+                      <div className="author-box mt-50">
+                      <figure className="image-box">
+                        <img
+                          src="assets/images/resource/testimonial-1.png"
+                          alt=""
+                        />
+                      </figure>
+                      <h4>Stuart Pearson</h4>
+                      <span className="designation">Sydney</span>
+                      <ul className="rating clearfix">
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                      </ul>
+                    </div>
+                    </div>
+
+                  </div>
+                </div>
+                <div className="testimonial-block-one">
+                  <div className="inner-box">
+                    <div className="text">
+                      <figure className="icon-1">
+                        <img src="assets/images/icons/icon-7.png" alt="" />
+                      </figure>
+                      <figure className="icon-2">
+                        <img src="assets/images/icons/icon-8.png" alt="" />
+                      </figure>
+                      <p className="mb-20">
+                      5 stars &quot;I&aposve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!</p>
+                      <p className="mb-20">
+They diligently and thoroughly disassembled the door and replaced all the broken and worn parts. An hour or so later the door was working perfectly. Yes, it was expensive, but it was worth it. Adsafe Door&aposs has given me a sliding door that will work beautifully for years and because I don&apost have to replace it with a new door, they saved me thousands of dollars in the process. Congratulations.
+
+                      </p>
+
+                      <div className="author-box mt-50">
+                      <figure className="image-box">
+                        <img
+                          src="assets/images/resource/testimonial-1.png"
+                          alt=""
+                        />
+                      </figure>
+                      <h4>Stuart Pearson</h4>
+                      <span className="designation">Sydney</span>
+                      <ul className="rating clearfix">
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                      </ul>
+                    </div>
+                    </div>
+
+                  </div>
+                </div>
+                <div className="testimonial-block-one">
+                  <div className="inner-box">
+                    <div className="text">
+                      <figure className="icon-1">
+                        <img src="assets/images/icons/icon-7.png" alt="" />
+                      </figure>
+                      <figure className="icon-2">
+                        <img src="assets/images/icons/icon-8.png" alt="" />
+                      </figure>
+                      <p className="mb-20">
+                      5 stars &quot;I&aposve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!</p>
+                      <p className="mb-20">
+They diligently and thoroughly disassembled the door and replaced all the broken and worn parts. An hour or so later the door was working perfectly. Yes, it was expensive, but it was worth it. Adsafe Door&aposs has given me a sliding door that will work beautifully for years and because I don&apost have to replace it with a new door, they saved me thousands of dollars in the process. Congratulations.
+
+                      </p>
+
+                      <div className="author-box mt-50">
+                      <figure className="image-box">
+                        <img
+                          src="assets/images/resource/testimonial-1.png"
+                          alt=""
+                        />
+                      </figure>
+                      <h4>Stuart Pearson</h4>
+                      <span className="designation">Sydney</span>
+                      <ul className="rating clearfix">
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                        <li>
+                          <i className="fas fa-star" />
+                        </li>
+                      </ul>
+                    </div>
+                    </div>
+
+                  </div>
+                </div>
+
+
+
+
+
+
+              {/* </div> */}
             </div>
-          </div>
-          <div className="col-lg-4 col-md-12 col-sm-12 SideBar-side">
-<SideBar/>
-          </div>
-        </div>
-      </div>
+            </div>
     </section>
+    
+
+    </div>
+    <div className="col-lg-4 col-md-12 col-sm-12 SideBar-side">
+      <SideBar/>
+          </div>
+          </div>
+</div>
 
   <Quote />
 

@@ -1,6 +1,7 @@
 export default function SideBar() {
   
     return (
+      <section className="main-sidebar">
         <div className="default-SideBar service-SideBar">
         <div className="SideBar-widget SideBar-category">
           <div className="widget-title">
@@ -36,7 +37,7 @@ export default function SideBar() {
           <div
             className="inner-box centred"
             style={{
-              backgroundImage: "url(assets/images/headset.jpg)"
+              backgroundImage: "url(/assets/images/headset.jpg)"
             }}
           >
             <div className="icon-box">
@@ -59,5 +60,6 @@ export default function SideBar() {
           </div>
         </div>
       </div>
+      </section>
 )
 }
