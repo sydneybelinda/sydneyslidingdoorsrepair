@@ -3,33 +3,20 @@
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
-import SideBar from "@/components/SideBar";
 import Quote from "@/components/Quote";
+import SideBar from "@/components/SideBar";
 import Link from "next/link";
 
-export default function Faqggeneral() {
+export default function FAQGenral(){
   return (
 <>
-  <meta charSet="utf-8" />
-  <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-  />
-  <title>Dormatic - HTML 5 Template Preview</title>
-  {/* Fav Icon */}
-  <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
-  {/* Google Fonts */}
-  <link
-    href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-    rel="stylesheet"
-  />
 
   {/* page wrapper */}
   <div className="boxed_wrapper">
 
     {/* preloader */}
-<Header/>
+    {/* main header */}
+    <Header/>
 
     {/* End Mobile Menu */}
     {/* Page Title */}
@@ -42,143 +29,92 @@ export default function Faqggeneral() {
       <div className="auto-container">
         <div className="content-box">
           <div className="title">
-            <h1>General FAQs</h1>
+            <h1>Frequently Asked Questions - General</h1>
           </div>
           <ul className="bread-crumb clearfix">
             <li>
-              <Link href="/">Home</Link>
+              <Link href="/">Guarantee</Link>
             </li>
-            <li>Generatl FAQs</li>
+            <li>Guarantee</li>
           </ul>
         </div>
       </div>
     </section>
     {/* End Page Title */} 
     {/* service-details */}
-    <section className="service-details">
+    <div className="auto-container">
+    <div className="row clearfix">
+  <div className="col-lg-8 col-md-12 col-sm-12 content-side">
+  <section className="service-details">
       <div className="auto-container">
-        <div className="row clearfix">
-          <div className="col-lg-8 col-md-12 col-sm-12 content-side">
             <div className="service-details-content">
               <div className="content-one">
                 <figure className="image-box">
                   <img src="/assets/images/door7.jpg" alt="" />
                 </figure>
                 <div className="text">
-                  <h2>We Can Help You Get Your Sliding Door Fixed Fast</h2>
-                  <h3>
-                  We are the foremost specialists in sliding door repairs and allsliding door technology systems in the Sydney area
-                  </h3>
-                  <p>
-                  Did you know that there is no need to undergo an expensive replacement of your jammed or hard-to-open door? sydneyslidingdoorsrepair.com.au can save you thousands of dollars by carrying out a repair on your problem door, today.
-                  </p>
-                </div>
-              </div>
-              <div className="two-column">
-                <figure className="image-box">
-                  <img src="/assets/images/door8.jpg" alt=""
-                  className="mh-300" />
-                </figure>
-                <div className="inner-box sd">
+                  <h2> Sydney Sliding Doors Repair – Guarantee & Benefits</h2>
+                  <h3>Eight Great Benefits We Guarantee Our Clients</h3>
+                  <div className="markdown prose w-full break-words dark:prose-invert light innex-box sd">
+  <h4>
+   1. Answer your enquiries, courteously and comprehensively
+  </h4>
 
-                <ul>
-                  <li>Aluminium doors</li>
-<li>Sliding windows</li>
-<li>Locks</li>
-<li>Fire Doors</li>
-<li>Joinery Doors</li>
-<li>Roller Doors (but not garage roller doors)</li>
-<li>Security Doors</li>
-<li>Sliding Doors</li>
-<li>Timber Doors</li>
-                  </ul>
+<h4>
+2. Free quotes
+</h4>
+<h4>
+3. Schedule a prompt appointment
+</h4>
+<h4>
+4. Attend your property at the agreed time
+</h4>
+<h4>
+  5. Carry all the appropriate tools to undertake your job effectively and efficiently
+</h4>
+<h4>
+  6. Furnish on the spot
+</h4>
+<p>all the required parts to carry out a repair on your sliding door – including 220 different rollers and carriages as well as 10 assorted replacement sliding door tracks</p>
+<h4>
+ 7.  Qualitied Techniticads
+</h4>
+<p>Send qualified technicians with the appropriate licences and expertise to repair your sliding door to full working order. You will be able to open and close your sliding door with one finger.</p>
+<h4>
+  8. Warranty
+</h4>
+<p>You will get a warranty on all completed work.</p>
 
-                </div>
-              </div>
-              <div className="content-two">
-                <div className="text">
-                  <h3>Our Specialties:</h3>
+<p>sydneyslidingdoorsrepair.com.au has been carrying out repairs to timber and <a href="http://sydneyslidingdoorsrepair.com.au/aluminium-sliding-door-repairs/%20‎">aluminium doors</a> and <a href="http://sydneyslidingdoorsrepair.com.au/faqs/sliding-window-repairs-faqs/">windows</a> in the Sydney area since 1980.&nbsp; We are well equipped to answer any enquiry about <a href="http://sydneyslidingdoorsrepair.com.au/faqs/faqs-general/">faulty sliding doors</a> and windows either wooden or aluminium.</p>
 
-                  <ul>
-                  <li>Replacement doors</li>
-<li>Sliding door repairs</li>
-<li>Door closer repair and installation</li>
-<li>Fire doors and frames</li>
+</div>
 
-                  </ul>
-                  <p className="mt-22">
-                  Our innovative and technologically superior door repair systems, together with 30 years of experience is the answer to all your door repairs.
-                  </p>
-                  <p>
-                  You cannot afford to take chances with the safety of your loved ones, especially when the primary entrances to your home are vulnerable because of faults and repair needs.
-                  </p>
-                  <p>
-                  If you%apos;ve ever known someone who%apos;experienced a burglary – you%apos;ll appreciate the trauma and fear associated with the fact that an intruder has violated the sanctity of your privacy and potentially, threatened your security and safety.
-                  </p>
-                  <p>
-                  sydneyslidingdoorsrepair.com.au have been attending to all forms of door repairs for the last thirty years. Our technology is designed to address every issue associated with door repairs.
-                  </p>
-                  <p>
-                  Our friendly and experienced tradesmen specialise in door repairs and replacements. However, wherever possible, we will save you thousands of dollars by restoring your door rather than replacing it.
-                  </p>
-                  <p>
-                  We have thirty years of comprehensive experience in commercial, industrial and domestic door repairs. Listed below is our full range of door repair services.
-                  </p>
-
-                  <ul>
-                  <li>Sliding door repairs – both wooden and aluminium</li>
-<li>Door closers</li>
-<li>Door closer installation and replacement</li>
-<li>Fire doors</li>
-<li>Wooden entrance doors</li>
-<li>Sliding window repairs</li>
-
-                  </ul>
                 </div>
               </div>
 
-              <div className="content-two">
-                <div className="text">
-                  <h3 className="jamhead">Is your door jamming, or sticking? Is it unable to slide properly?</h3>
-
-                  
-                  <p className="mt-22">
-                  No matter what the problem with your door, sydneyslidingdoorsrepair.com.au can assist you and carry out the full range of door repair services in the Sydney area.
-                  </p>
-                  <p>
-                  Why not call 0401 349 821 and talk to one of our friendly staff who will assist you with all your enquiries today. Our servicemen cover the whole of the Sydney metropolitan area so don%apos;t hesitate to contact us today.
-                  </p>
-                  <p>
-                  sydneyslidingdoorsrepair.com.au has been operating in the Sydney metropolitan area since 1980. Over the years, we have accumulated a wealth of knowledge and experience in all door repairs and replacement. We deal with homes, shops, offices, factories and all commercial premises. Our advice on door repairs is second to none.
-                  </p>
-                
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <div className="col-lg-4 col-md-12 col-sm-12 SideBar-side">
-<SideBar/>
-          </div>
         </div>
       </div>
     </section>
+    
+
+    </div>
+    <div className="col-lg-4 col-md-12 col-sm-12 SideBar-side">
+      <SideBar/>
+          </div>
+          </div>
+</div>
 
   <Quote />
 
 
-
-    {/* service-form-section end */}
-<Footer/>
+  <Footer />
 <ScrollToTop/>
-
-    {/*Scroll to top*/}
-
   </div>
   {/* jequery plugins */}
   {/* main-js */}
   {/* End of .page_wrapper */}
 </>
+
 
   );
 }

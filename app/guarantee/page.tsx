@@ -87,6 +87,38 @@ export default function Woolahra(){
 
 <p>sydneyslidingdoorsrepair.com.au has been carrying out repairs to timber and <a href="http://sydneyslidingdoorsrepair.com.au/aluminium-sliding-door-repairs/%20‎">aluminium doors</a> and <a href="http://sydneyslidingdoorsrepair.com.au/faqs/sliding-window-repairs-faqs/">windows</a> in the Sydney area since 1980.&nbsp; We are well equipped to answer any enquiry about <a href="http://sydneyslidingdoorsrepair.com.au/faqs/faqs-general/">faulty sliding doors</a> and windows either wooden or aluminium.</p>
 
+<p>Many of our customers have been misled about the simplicity of replacing sliding door rollers by tradesmen and handymen who are not experienced in this area. What can look like a simple problem is not necessarily an easy fix, without the appropriate tools, parts and expertise.</p>
+
+<h3>
+Sliding doors deteriorate over time due to wear and tear
+</h3>
+
+<p>It is not generally recognised in the industry, that doors and windows can deteriorate over the years because of many factors: how they are treated, how they are originally designed, where they are positioned, how they were first installed.
+</p>
+<p>
+sydneyslidingdoorsrepair.com.au was originally operating simply as installers of sliding doors and windows. However, because of the massive volume of enquiries about sliding doors and windows that were not operating satisfactorily even though many were not particularly old, we began to specialise in these types of repairs.
+</p>
+<p>
+Over the years, we have accumulated a vast store of knowledge and expertise in this area. We have devised innovative and ingenious techniques to repair sliding doors and windows, as the result of years of experience for a multitude of designs and styles in the Sydney area.
+</p>
+<p>
+During the course of our work, we have encountered many situations where the door or window repair has resulted in more damage, rather than a quick fix.
+</p>
+<p>
+Obviously, timber and aluminium can rot due to exposure to the weather and this can prevent an effective repair unless the tradesman knows exactly what he is doing. We secure the door by applying a belt around the frame of the door so that the sides do not detach from the glass – averting a potential catastrophe of broken glass.
+</p>
+<p>
+In our experience, we have found that the fasteners that attach the sides of the aluminium door to the top and bottom plates may be compromised by previous tradesmen who have inadvertently damaged them. We are fully cognisant of this problem and are equipped to avert any associated problems.</p>
+
+<p><strong>Our technicians at sydneyslidingdoorsrepair.com.au are aware that:</strong></p>
+
+<ul>
+<li>Our customers do not want a temporary solution – they want one which should reasonably last for up to ten years depending on daily treatment of the door</li>
+<li>Many of our customers realise that the tracks on their sliding door are faulty</li>
+<li>We can replace faulty sliding door tracks on the spot</li>
+<li>Our customers want their doors to glide silently and smoothly – adding years to the life of the door and the rollers and tracks</li>
+</ul>
+
 </div>
 
                 </div>
