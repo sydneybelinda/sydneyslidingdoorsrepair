@@ -113,9 +113,6 @@ export default function Footer() {
                 <a href="/locations/sutherland">Sutherland</a>
               </li>
               <li>
-                <a href="/locations/sydney">Sydney City</a>
-              </li>
-              <li>
                 <a href="/locations/woolahra">Woolahra</a>
               </li>
             </ul>

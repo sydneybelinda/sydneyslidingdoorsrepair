@@ -54,7 +54,7 @@ export default function Strathfield(){
                 </figure>
                 <div className="text">
                 <h2>Sliding Door Repairs in Strathfield</h2>
-    <div className="markdown prose w-full break-words dark:prose-invert light">
+    <div className="markdown prose w-full break-words dark:prose-invert light innex-box sd">
   <h3>
     Sydney Sliding Doors Repair: Expert Sliding Door Repairs in Strathfield
   </h3>
