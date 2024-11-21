@@ -76,7 +76,7 @@ Sliding doors are designed to provide easy access to outdoor spaces like balconi
 2. <b>Sticking or Jammed Doors</b><p>If your sliding door is difficult to open or close, it may be due to dirt and debris accumulating in the track or worn-out rollers. In some cases, the door may have warped, causing it to stick.</p>
 </li>
 <li>
-3. <b>Broken Rollers</b><p>The rollers are an essential part of a sliding door's functionality, allowing it to glide smoothly along the track. If the rollers break or become worn down, the door will become difficult to move, and in some cases, it may even become completely immobile.
+3. <b>Broken Rollers</b><p>The rollers are an essential part of a sliding door&apos;s functionality, allowing it to glide smoothly along the track. If the rollers break or become worn down, the door will become difficult to move, and in some cases, it may even become completely immobile.
   </p>
 </li>
 <li>
