@@ -61,7 +61,7 @@ export default function Sutherland(){
     Is your sliding door stuck, off-track, or simply in need of repair? Look no
     further. At Sydney Sliding Doors Repair, we specialize in delivering
     top-quality sliding door repair services in Sutherland and surrounding
-    areas. Whether you’re dealing with a broken roller, damaged frame, or an
+    areas. Whether you%apos;re dealing with a broken roller, damaged frame, or an
     off-track door, we are here to ensure your sliding doors work as smoothly
     and efficiently as they did when they were first installed.
   </p>
@@ -71,7 +71,7 @@ export default function Sutherland(){
     Sutherland, but over time, wear and tear can affect their functionality. Our
     team of professional technicians is highly skilled in diagnosing and
     repairing a wide range of sliding door issues, offering prompt and reliable
-    service with a focus on customer satisfaction. Here’s why you should choose
+    service with a focus on customer satisfaction. Here%apos;why you should choose
     us:
   </p>
   <ul>
@@ -82,7 +82,7 @@ export default function Sutherland(){
     </li>
     <li>
       <strong>Fast and Reliable Service</strong>: We understand how inconvenient
-      it is to have a malfunctioning door. That’s why we offer same-day and
+      it is to have a malfunctioning door. That%apos;why we offer same-day and
       emergency repair services to ensure your sliding doors are restored as
       quickly as possible.
     </li>
@@ -94,7 +94,7 @@ export default function Sutherland(){
     <li>
       <strong>Customer Satisfaction Guaranteed</strong>: We pride ourselves on
       our reputation for excellent customer service. Our goal is to leave every
-      customer completely satisfied with their repair, whether it’s a small fix
+      customer completely satisfied with their repair, whether it%apos;a small fix
       or a large restoration.
     </li>
   </ul>
@@ -110,7 +110,7 @@ export default function Sutherland(){
   <p>
     Over time, the rollers in your sliding door can become worn out, causing the
     door to become difficult to open or close. If your door is off-track or
-    stuck, it’s likely a roller issue. Our team will inspect your sliding door
+    stuck, it%apos;likely a roller issue. Our team will inspect your sliding door
     and replace damaged rollers with high-quality, durable parts to restore
     smooth operation.
   </p>
@@ -120,7 +120,7 @@ export default function Sutherland(){
   <p>
     When your sliding door comes off its track, it can be frustrating and
     unsafe. Our experts specialize in re-aligning and re-tracking doors to
-    ensure proper function and prevent future off-track issues. We’ll carefully
+    ensure proper function and prevent future off-track issues. We%apos;ll carefully
     guide your door back into place and check the entire system for any
     underlying issues.
   </p>
@@ -155,7 +155,7 @@ export default function Sutherland(){
     6. <strong>Security Enhancements</strong>
   </h4>
   <p>
-    Safety is always a top priority. If you’re concerned about the security of
+    Safety is always a top priority. If you%apos;re concerned about the security of
     your sliding door, we offer enhancements such as upgraded locks, security
     bars, and reinforced glass. We can help ensure your home or business is safe
     from intruders while maintaining a functional sliding door.
@@ -177,13 +177,13 @@ export default function Sutherland(){
   <h3>Serving Sutherland and Surrounding Areas</h3>
   <p>
     We proudly serve all areas of Sutherland, including Sutherland Shire,
-    Cronulla, Kirrawee, Gymea, and beyond. If you’re in need of sliding door
+    Cronulla, Kirrawee, Gymea, and beyond. If you%apos;re in need of sliding door
     repairs or installations, we are just a call away. Our mobile team is ready
     to come to your location, fully equipped to handle any repair on-site.
   </p>
   <h3>Contact Us Today</h3>
   <p>
-    If you’re facing issues with your sliding door, don’t wait for the problem
+    If you%apos;re facing issues with your sliding door, don%apos;t wait for the problem
     to get worse. Contact Sydney Sliding Doors Repair today for fast, reliable,
     and affordable sliding door repair services in Sutherland. Call us now at
     [Phone Number] or fill out the contact form on our website for a free quote.

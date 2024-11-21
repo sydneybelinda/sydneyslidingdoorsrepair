@@ -77,7 +77,7 @@ export default function Glebe(){
     When it comes to repairing sliding doors in Glebe, you need a team you can
     trust. Sydney Sliding Doors Repair has built a reputation for offering the
     highest standards of craftsmanship, customer service, and reliability.
-    Here’s why you should choose us for your sliding door repair needs:
+    Here&apos;s why you should choose us for your sliding door repair needs:
   </p>
   <div className="inner-box sd">
   <ul>
@@ -126,7 +126,7 @@ export default function Glebe(){
   </h3>
   <p>
     At Sydney Sliding Doors Repair, we offer a wide range of services to ensure
-    your sliding doors are working like new. Whether it’s a broken lock,
+    your sliding doors are working like new. Whether it&apos;s a broken lock,
     worn-out rollers, or misaligned tracks, our expert technicians can handle it
     all.
   </p>
@@ -153,7 +153,7 @@ export default function Glebe(){
     <strong>3. Door Alignment &amp; Adjustment</strong>
   </h4>
   <p>
-    If your sliding door isn’t closing properly, it may be misaligned. This can
+    If your sliding door isn&apos;t closing properly, it may be misaligned. This can
     cause air drafts, security issues, or even damage to the door and frame. Our
     team specializes in precise alignment and adjustment of your sliding doors
     to ensure they function perfectly.
@@ -202,7 +202,7 @@ export default function Glebe(){
     <li>
       <p>
         <strong>Improved Security</strong>: A malfunctioning sliding door can
-        become a weak point in your home’s security. A properly functioning door
+        become a weak point in your home&apos;s security. A properly functioning door
         with a secure lock and smooth operation can help prevent unauthorized
         entry.
       </p>
@@ -212,7 +212,7 @@ export default function Glebe(){
         <strong>Increased Energy Efficiency</strong>: A misaligned or broken
         sliding door can lead to air leaks, making it harder to maintain a
         comfortable temperature inside your property. Repairing these issues can
-        improve your home’s energy efficiency and lower your utility bills.
+        improve your home&apos;s energy efficiency and lower your utility bills.
       </p>
     </li>
     <li>
@@ -220,7 +220,7 @@ export default function Glebe(){
         <strong>Enhanced Convenience</strong>: When your sliding door works
         smoothly, it makes accessing your outdoor space easier and more
         convenient. A functional sliding door enhances your lifestyle, whether
-        you’re opening it to step outside or letting in some fresh air.
+        you&apos;re opening it to step outside or letting in some fresh air.
       </p>
     </li>
     <li>
@@ -239,23 +239,23 @@ export default function Glebe(){
   </h3>
   <p>
     At Sydney Sliding Doors Repair, we are passionate about delivering excellent
-    service and customer satisfaction. If you’re experiencing problems with your
-    sliding doors in Glebe, don’t hesitate to contact us today. Our friendly
+    service and customer satisfaction. If you&apos;re experiencing problems with your
+    sliding doors in Glebe, don&apos;t hesitate to contact us today. Our friendly
     team is ready to provide expert advice, a free quote, and fast repairs.
   </p>
   <p>
     Call us now at <strong>[Your Contact Number]</strong> or fill out the
-    contact form on our website to schedule a repair appointment. We’re here to
+    contact form on our website to schedule a repair appointment. We&apos;re here to
     ensure your sliding doors are as good as new!
   </p>
   <hr />
   <h3>
     <strong>
-      Get Your Sliding Doors Fixed Today – We’re Just a Call Away!
+      Get Your Sliding Doors Fixed Today – We&apos;re Just a Call Away!
     </strong>
   </h3>
   <p>
-    Don't let a faulty sliding door disrupt your routine. Trust Sydney Sliding
+    Don&apost let a faulty sliding door disrupt your routine. Trust Sydney Sliding
     Doors Repair to get your sliding doors back in top condition. Serving Glebe
     and surrounding areas, we guarantee fast, reliable, and affordable service
     every time. Let us take care of your sliding door repairs so you can enjoy

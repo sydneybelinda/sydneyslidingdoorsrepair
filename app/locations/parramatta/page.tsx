@@ -73,7 +73,7 @@ export default function Parramatta(){
   <p>
     We take pride in being the go-to experts for sliding door repairs in
     Parramatta and surrounding areas. Our team is committed to delivering
-    high-quality workmanship with a focus on customer satisfaction. Here’s why
+    high-quality workmanship with a focus on customer satisfaction. Here%apos;why
     our clients choose us:
   </p>
   <h4>
@@ -89,7 +89,7 @@ export default function Parramatta(){
   </h4>
   <p>
     We believe in offering fair, upfront pricing with no hidden fees. Our
-    transparent pricing model ensures you know exactly what you're paying for,
+    transparent pricing model ensures you know exactly what you&apos;re paying for,
     and we work within your budget to get your sliding doors back in perfect
     working condition.
   </p>
@@ -99,7 +99,7 @@ export default function Parramatta(){
   <p>
     We understand that sliding door issues can disrupt your daily routine, which
     is why we offer fast response times. Our team is ready to tackle any
-    problem, whether it's an emergency repair or a scheduled maintenance
+    problem, whether it&aposan emergency repair or a scheduled maintenance
     service.
   </p>
   <h4>
@@ -114,7 +114,7 @@ export default function Parramatta(){
     5. <strong>Customer Satisfaction Guaranteed</strong>
   </h4>
   <p>
-    Our work isn’t done until you’re completely satisfied. We pride ourselves on
+    Our work isn%apos;t done until you%apos;re completely satisfied. We pride ourselves on
     providing high-quality service and ensuring that your sliding doors are
     working perfectly before we leave.
   </p>
@@ -185,7 +185,7 @@ export default function Parramatta(){
   </ul>
   </div>
   <p>
-    Whether you're dealing with a minor issue or a major repair, we are just a
+    Whether you&apos;re dealing with a minor issue or a major repair, we are just a
     phone call away. Our team will arrive promptly, assess the issue, and
     provide a fast, effective solution.
   </p>
@@ -193,7 +193,7 @@ export default function Parramatta(){
   <p>
     Sliding doors are a popular choice for many homeowners and businesses due to
     their sleek design and space-saving benefits. However, like any other door,
-    they require regular maintenance to stay functional. Here's why keeping your
+    they require regular maintenance to stay functional. Here&aposwhy keeping your
     sliding doors in good condition is essential:
   </p>
   <div className="inner-box sd">
@@ -206,10 +206,10 @@ export default function Parramatta(){
     <li>
       <strong>Improved Comfort:</strong> Broken tracks, damaged rollers, or
       leaky seals can lead to drafts and energy loss. Well-maintained doors
-      improve your property's insulation.
+      improve your property&aposinsulation.
     </li>
     <li>
-      <strong>Aesthetics:</strong> A sliding door that doesn’t close properly or
+      <strong>Aesthetics:</strong> A sliding door that doesn%apos;t close properly or
       is covered in dirt and grime can negatively impact the aesthetic appeal of
       your space. Regular repairs help maintain the look of your doors.
     </li>
@@ -222,7 +222,7 @@ export default function Parramatta(){
   </div>
   <h3>Contact Us Today for Reliable Sliding Door Repairs in Parramatta</h3>
   <p>
-    If you're experiencing problems with your sliding doors in Parramatta, don’t
+    If you&apos;re experiencing problems with your sliding doors in Parramatta, don%apos;t
     hesitate to reach out to <strong>Sydney Sliding Doors Repair</strong>. Our
     team is ready to help you with fast, professional, and affordable sliding
     door repair services.

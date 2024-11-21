@@ -72,7 +72,7 @@ export default function Woolahra(){
     skilled technicians are fully trained to handle all types of sliding doors,
     including glass, timber, aluminum, and more. We understand that sliding
     doors play an essential role in your home or business, providing security,
-    natural light, and easy access. That’s why we work tirelessly to restore
+    natural light, and easy access. That%apos;why we work tirelessly to restore
     their functionality and appearance.
   </p>
   <p>
@@ -83,28 +83,28 @@ export default function Woolahra(){
     <li>
       <strong>Expert Technicians</strong>: Our team has extensive experience and
       expertise in handling all types of sliding door issues. From track
-      misalignment to broken rollers, we’ve seen it all and can fix it all.
+      misalignment to broken rollers, we%apos;ve seen it all and can fix it all.
     </li>
     <li>
       <strong>Prompt and Reliable Service</strong>: We know that a
-      malfunctioning sliding door can be a major inconvenience. That's why we
-      offer fast and reliable repair services to restore your door’s function as
+      malfunctioning sliding door can be a major inconvenience. That&aposwhy we
+      offer fast and reliable repair services to restore your door%apos;function as
       quickly as possible.
     </li>
     <li>
       <strong>Affordable Pricing</strong>: We believe in offering high-quality
-      repair services at prices that won’t break the bank. Our transparent
+      repair services at prices that won%apos;t break the bank. Our transparent
       pricing ensures there are no hidden costs or surprises.
     </li>
     <li>
-      <strong>Comprehensive Repairs</strong>: Whether it’s a problem with the
+      <strong>Comprehensive Repairs</strong>: Whether it%apos;a problem with the
       tracks, rollers, locks, or even the door frame itself, we offer
       comprehensive sliding door repairs to restore your doors to perfect
       working condition.
     </li>
     <li>
       <strong>Satisfaction Guaranteed</strong>: We are committed to customer
-      satisfaction. Our team works diligently to ensure you’re happy with the
+      satisfaction. Our team works diligently to ensure you%apos;re happy with the
       results, and we back up our work with warranties for your peace of mind.
     </li>
   </ul>
@@ -177,13 +177,13 @@ export default function Woolahra(){
   <p>
     At <strong>Sydney Sliding Doors Repair</strong>, we understand the
     importance of keeping your sliding doors in good working condition without
-    spending a fortune. That’s why we offer affordable rates and a commitment to
-    providing value for every customer. Our convenient services mean we’ll come
-    to you at a time that works best for your schedule, and we’ll work quickly
+    spending a fortune. That%apos;why we offer affordable rates and a commitment to
+    providing value for every customer. Our convenient services mean we%apos;ll come
+    to you at a time that works best for your schedule, and we%apos;ll work quickly
     to minimize any disruptions to your daily routine.
   </p>
   <p>
-    We’re proud to serve the Woollahra community, and we treat every job with
+    We%apos;re proud to serve the Woollahra community, and we treat every job with
     the care and attention it deserves. Our team is punctual, professional, and
     dedicated to exceeding your expectations on every repair.
   </p>

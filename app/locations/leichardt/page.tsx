@@ -60,20 +60,20 @@ export default function Leichardt(){
   <p>
     Welcome to <strong>Sydney Sliding Doors Repair</strong>, your local experts
     for all types of sliding door repairs and maintenance in Leichhardt and
-    surrounding areas. Whether you’re dealing with a stuck sliding door, damaged
+    surrounding areas. Whether you&apos;re dealing with a stuck sliding door, damaged
     tracks, or misaligned rollers, our experienced technicians are here to
     restore your door to perfect working order.
   </p>
   <p>
     We understand that sliding doors are a crucial part of your home or
     business, providing easy access, security, and a seamless connection to the
-    outdoors. That’s why we offer prompt, reliable, and affordable sliding door
+    outdoors. That&apos;s why we offer prompt, reliable, and affordable sliding door
     repair services to ensure your door operates smoothly and efficiently.
   </p>
   <h3>Why Choose Sydney Sliding Doors Repair?</h3>
   <p>
     At <strong>Sydney Sliding Doors Repair</strong>, we pride ourselves on our
-    commitment to delivering top-quality sliding door repairs. Here’s why we are
+    commitment to delivering top-quality sliding door repairs. Here&apos;s why we are
     the best choice for homeowners and businesses in Leichhardt:
   </p>
   <h4>
@@ -90,7 +90,7 @@ export default function Leichardt(){
   </h4>
   <p>
     We understand that a malfunctioning sliding door can disrupt your daily
-    life. That’s why we offer fast and efficient repair services to get your
+    life. That&apos;s why we offer fast and efficient repair services to get your
     door back to full functionality as quickly as possible. We arrive on time,
     diagnose the problem, and complete repairs in a timely manner.
   </p>
@@ -99,7 +99,7 @@ export default function Leichardt(){
   </h4>
   <p>
     At Sydney Sliding Doors Repair, we believe that sliding door repairs
-    shouldn’t break the bank. Our pricing is competitive, transparent, and
+    shouldn&apos;t break the bank. Our pricing is competitive, transparent, and
     upfront—no hidden fees or surprise charges. We provide free, no-obligation
     quotes so you know exactly what to expect before we begin any work.
   </p>
@@ -142,7 +142,7 @@ export default function Leichardt(){
   <p>
     We are dedicated to providing exceptional customer service. Our mission is
     to exceed your expectations by delivering a seamless experience from start
-    to finish. We don’t consider the job done until you are completely satisfied
+    to finish. We don&apos;t consider the job done until you are completely satisfied
     with our work.
   </p>
   <h3>Common Sliding Door Problems We Can Fix</h3>
@@ -195,7 +195,7 @@ export default function Leichardt(){
   <h3>Our Service Area: Leichhardt and Surrounding Areas</h3>
   <p>
     We proudly offer sliding door repair services to the Leichhardt area and its
-    surrounding suburbs. Whether you're in the heart of Leichhardt or nearby
+    surrounding suburbs. Whether you&apos;re in the heart of Leichhardt or nearby
     neighborhoods, our team is just a call away. Our local team ensures fast
     response times, which means no waiting around for days.
   </p>
@@ -212,8 +212,8 @@ export default function Leichardt(){
   <p>
     If you need reliable sliding door repairs in Leichhardt, look no further
     than <strong>Sydney Sliding Doors Repair</strong>. Our expert technicians
-    are ready to assist with all your repair needs. Whether it’s a broken
-    roller, damaged track, or a sliding door that won’t close properly, we’ve
+    are ready to assist with all your repair needs. Whether it&apos;s a broken
+    roller, damaged track, or a sliding door that won&apos;t close properly, we&apos;ve
     got you covered.
   </p>
   <p>
@@ -233,7 +233,7 @@ export default function Leichardt(){
   <hr />
   <p>
     This landing page uses informative, persuasive language to highlight the
-    business’s services and strengths while incorporating SEO-friendly keywords
+    business&apos;s services and strengths while incorporating SEO-friendly keywords
     for better visibility.
   </p>
 </div>

@@ -253,7 +253,7 @@ export default function Home() {
         </div>
         <div className="cta-text centred">
           <p>
-            Want your sliding door repaired properly? We’re Ready To Start!
+            Want your sliding door repaired properly? We%apos;re Ready To Start!
           </p>
           <h3>
             Call Us Today <i className="icon-mob" />{" "}
@@ -511,7 +511,7 @@ export default function Home() {
                         <img src="assets/images/icons/icon-8.png" alt="" />
                       </figure>
                       <p>
-                      “I’ve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!...
+                      “I%apos;ve had problems with a sliding door ever since my wife and I moved into our home three years ago. But it grew worse until I had great difficulty opening the door itself. In desperation, I phoned Adsafe Doors and to my pleasant surprise they came out the very next day!...
 
 
                       </p>
@@ -555,7 +555,7 @@ export default function Home() {
                         <img src="assets/images/icons/icon-8.png" alt="" />
                       </figure>
                       <p>
-                      I have a fairly new house in Parramatta. It’s only around 8 years old. Unfortunately, for some reason the sliding door onto the patio has been causing a lot of trouble for some time now. I’ve put off calling in a repairman because I believed that he would tell me...
+                      I have a fairly new house in Parramatta. It%apos;only around 8 years old. Unfortunately, for some reason the sliding door onto the patio has been causing a lot of trouble for some time now. I%apos;ve put off calling in a repairman because I believed that he would tell me...
                       </p>
                     </div>
                     <div className="author-box">
