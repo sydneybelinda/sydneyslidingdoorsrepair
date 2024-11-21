@@ -14,8 +14,7 @@ if (typeof window !== "undefined") {
   /* tslint:disable no-var-requires */ window.$ = window.jQuery = require("jquery");
  } 
  
-//  import "owl.carousel/dist/assets/owl.carousel.css";
-// import "owl.carousel/dist/assets/owl.theme.default.css";
+
 import dynamic from "next/dynamic";
 
 const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
@@ -24,7 +23,7 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
 
  export default function Slider() {
     return    <section className="banner-section">
-        {/* <div className="banner-carousel owl-theme owl-carousel owl-nav-none"> */}
+
     <OwlCarousel className="banner-carousel owl-theme owl-carousel owl-nav-none"
         items={1}
         autoplay={true}
@@ -33,7 +32,7 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
           <div
             className="image-layer"
             style={{
-              backgroundImage: "url(assets/images/hero-door.webp"
+              backgroundImage: "url(/assets/images/hero-door.webp"
             }}
           />
           <div className="auto-container">
@@ -57,7 +56,7 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
                     </h3>
                   </div>
                 </div>
-                <a href="index.html" className="theme-btn-one">
+                <a href="/about-us" className="theme-btn-one">
                   <span className="btn-shape" />
                   learn more
                 </a>
@@ -69,7 +68,7 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
           <div
             className="image-layer"
             style={{
-              backgroundImage: "url(assets/images/hero-door2.jpg)"
+              backgroundImage: "url(/assets/images/hero-door2.jpg)"
             }}
           />
           <div className="auto-container">
@@ -93,7 +92,7 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
                     </h3>
                   </div>
                 </div>
-                <a href="index.html" className="theme-btn-one">
+                <a href="/about-us" className="theme-btn-one">
                   <span className="btn-shape" />
                   learn more
                 </a>
@@ -105,7 +104,7 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
           <div
             className="image-layer"
             style={{
-               backgroundImage: "url(assets/images/hero-door3.jpg)"
+               backgroundImage: "url(/assets/images/hero-door3.jpg)"
             }}
           />
           <div className="auto-container">
@@ -130,7 +129,7 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
                     </h3>
                   </div>
                 </div>
-                <a href="index.html" className="theme-btn-one">
+                <a href="/about-us" className="theme-btn-one">
                   <span className="btn-shape" />
                   learn more
                 </a>

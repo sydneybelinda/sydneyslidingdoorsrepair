@@ -61,6 +61,7 @@ export default function RootLayout({
 
 
     <Script  src="/assets/js/script.js" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
         {/* <BootstrapClient /> */}

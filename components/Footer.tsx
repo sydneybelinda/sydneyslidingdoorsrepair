@@ -27,22 +27,22 @@ export default function Footer() {
           </div>
           <ul className="social-links clearfix">
             <li>
-              <a href="index.html">
+              <a href="#">
                 <i className="fab fa-twitter" />
               </a>
             </li>
             <li>
-              <a href="index.html">
+              <a href="#">
                 <i className="fab fa-facebook-f" />
               </a>
             </li>
             <li>
-              <a href="index.html">
+              <a href="#">
                 <i className="fab fa-instagram" />
               </a>
             </li>
             <li>
-              <a href="index.html">
+              <a href="#">
                 <i className="fab fa-linkedin-in" />
               </a>
             </li>

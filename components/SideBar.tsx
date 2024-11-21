@@ -15,19 +15,34 @@ export default function SideBar() {
                 </a>
               </li>
               <li>
-                <a href="service-details-2.html">Fast and Frinendly staff</a>
+                <a href="/services-2">Aluminium doors</a>
               </li>
               <li>
-                <a href="service-details-3.html">Replacement Doora</a>
+                <a href="/services-2">Sliding windows</a>
               </li>
               <li>
-                <a href="service-details-4.html">Door closer repair and installation</a>
+                <a href="/services-2">Locks</a>
               </li>
               <li>
-                <a href="service-details-5.html">Firedoors and Frammes</a>
+                <a href="/services-2">Fire Doors</a>
               </li>
               <li>
-                <a href="service-details-6.html">Client satidfaction <br/>Guaranteed</a>
+                <a href="/services-2">Joinery Doors</a>
+              </li>
+              <li>
+                <a href="/services-2">Roller Doors (but not garage roller doors)</a>
+              </li>
+              <li>
+                <a href="/services-2">Security Doors</a>
+              </li>
+              <li>
+                <a href="/services-2">Sliding Doors</a>
+              </li>           <li>
+                <a href="s/services-2">Timber Doors</a>
+              </li>
+
+              <li>
+                <a href="/guarabtee">Client satidfaction <br/>Guaranteed</a>
               </li>
             </ul>
           </div>

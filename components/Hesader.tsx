@@ -280,9 +280,9 @@ export default function Header() {
       </div>
       <nav className="menu-box">
         <div className="nav-logo">
-          <a href="index.html">
-            <img src="assets/images/logo-2.png" alt="" title="" />
-          </a>
+          <Link href="/">
+            <img src="/assets/images/logo-2.png" alt="" title="" />
+          </Link>
         </div>
         <div className="menu-outer">
           {/*Here Menu Will Come Automatically Via Javascript / Same Menu as in Header*/}
