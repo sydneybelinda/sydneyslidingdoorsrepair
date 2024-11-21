@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "embla-carousel": "^8.5.1",
+    "embla-carousel-autoplay": "^8.5.1",
+    "embla-carousel-fade": "^8.5.1",
+    "embla-carousel-react": "^8.5.1",
     "jquery": "^3.7.1",
     "next": "15.0.3",
     "nodemailer": "^6.9.16",

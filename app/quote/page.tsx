@@ -1,5 +1,4 @@
-// import Image from "next/image";
-// import styles from "./page.module.css";
+
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";

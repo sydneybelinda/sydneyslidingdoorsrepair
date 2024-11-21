@@ -1,6 +1,4 @@
 
-// import Image from "next/image";
-// import styles from "./page.module.css";
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
@@ -22,15 +20,8 @@ export default function FAQGenral(){
   return (
 <>
 
-  {/* page wrapper */}
   <div className="boxed_wrapper">
-
-    {/* preloader */}
-    {/* main header */}
     <Header/>
-
-    {/* End Mobile Menu */}
-    {/* Page Title */}
     <section
       className="page-title centred"
       style={{
@@ -51,8 +42,7 @@ export default function FAQGenral(){
         </div>
       </div>
     </section>
-    {/* End Page Title */} 
-    {/* service-details */}
+
     <div className="auto-container">
     <div className="row clearfix">
   <div className="col-lg-8 col-md-12 col-sm-12 content-side">
@@ -94,9 +84,7 @@ export default function FAQGenral(){
   <Footer />
 <ScrollToTop/>
   </div>
-  {/* jequery plugins */}
-  {/* main-js */}
-  {/* End of .page_wrapper */}
+
 </>
 
 

@@ -1,5 +1,4 @@
-// import Image from "next/image";
-// import styles from "./page.module.css";
+
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
@@ -17,15 +16,13 @@ export default function Bondi(){
   return (
 <>
 
-  {/* page wrapper */}
+
   <div className="boxed_wrapper">
 
-    {/* preloader */}
-    {/* main header */}
+
     <Header/>
 
-    {/* End Mobile Menu */}
-    {/* Page Title */}
+
     <section
       className="page-title centred"
       style={{
@@ -272,9 +269,7 @@ export default function Bondi(){
   <Footer />
 <ScrollToTop/>
   </div>
-  {/* jequery plugins */}
-  {/* main-js */}
-  {/* End of .page_wrapper */}
+
 </>
 
 

@@ -17,15 +17,10 @@ export default function Glebe(){
   return (
 <>
 
-  {/* page wrapper */}
   <div className="boxed_wrapper">
 
-    {/* preloader */}
-    {/* main header */}
     <Header/>
 
-    {/* End Mobile Menu */}
-    {/* Page Title */}
     <section
       className="page-title centred"
       style={{
@@ -297,9 +292,6 @@ export default function Glebe(){
   <Footer />
 <ScrollToTop/>
   </div>
-  {/* jequery plugins */}
-  {/* main-js */}
-  {/* End of .page_wrapper */}
 </>
 
 

@@ -146,3 +146,28 @@ h3{margin-top:30px !important}
   border: 1px dashed #6de5f2;
 }
 
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+  /* height: 100vh; */
+}
+@media only screen and (max-width: 499px) {
+  .banner-carousel .slide-item {
+      padding-top: 120px !important;
+  }
+}
+
+.banner-carousel .slide-item {
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 230px 0px 170px 0px;
+  padding-top: 140px !important;
+}

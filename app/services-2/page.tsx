@@ -1,5 +1,4 @@
-// import Image from "next/image";
-// import styles from "./page.module.css";
+
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
@@ -16,22 +15,14 @@ export const metadata: Metadata = {
 export default function Services() {
   return (
 <>
-  <meta charSet="utf-8" />
-  <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-  />
 
 
-  {/* page wrapper */}
   <div className="boxed_wrapper">
 
-    {/* preloader */}
+
 <Header/>
 
-    {/* End Mobile Menu */}
-    {/* Page Title */}
+
     <section
       className="page-title centred"
       style={{

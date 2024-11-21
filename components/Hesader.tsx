@@ -1,15 +1,18 @@
 "use client"
 
 import Link from "next/link"
+import { usePathname } from "next/navigation";
+
 
 
 export default function Header() {
+	const pathname = usePathname();
 
   
     return (
         <>
         <header className="main-header style-one">
-      {/* header-top */}
+
       <div className="header-top">
         <div className="auto-container">
           <div className="top-inner clearfix">
@@ -26,27 +29,27 @@ export default function Header() {
             <div className="right-column pull-right clearfix">
               <ul className="social-links clearfix">
                 <li>
-                  <a href="index.html">
+                  <a href="#">
                     <i className="fab fa-twitter" />
                   </a>
                 </li>
                 <li>
-                  <a href="index.html">
+                  <a href="#">
                     <i className="fab fa-facebook-f" />
                   </a>
                 </li>
                 <li>
-                  <a href="index.html">
+                  <a href="#">
                     <i className="fab fa-instagram" />
                   </a>
                 </li>
                 <li>
-                  <a href="index.html">
+                  <a href="#">
                     <i className="fab fa-linkedin-in" />
                   </a>
                 </li>
                 <li>
-                  <a href="index.html">
+                  <a href="#">
                     <i className="fab fa-google-plus-g" />
                   </a>
                 </li>
@@ -121,31 +124,29 @@ export default function Header() {
                 >
                   <ul className="navigation clearfix">
 
-                                        <li>
+                     <li className={`${pathname === "/" ? "current" : ""}`}>
                       <Link href="/" >Home</Link >
                     </li>
-                    <li>
+                    <li className={`${pathname === "/about-us" ? "current" : ""}`}>
                       <a href="/about-us">About Us</a>
                     </li>
-                    <li>
+                    <li className={`${pathname === "/services-2" ? "current" : ""}`}>
                       <a href="/services-2">Services</a>
                     </li>
-                    <li>
+                    <li className={`${pathname === "/testimonials" ? "current" : ""}`}>
                       <a href="/testimonials">Testimonials</a>
                     </li>
-                    <li>
+                    <li className={`${pathname === "/guarantee" ? "current" : ""}`}>
                       <a href="/guarantee">Guarantee</a>
                     </li>
-                    {/* <li>
-                      <a href="contact.html">FAQ</a>
-                    </li> */}
-                    <li className="current dropdown">
+
+                    <li className="dropdown">
                       <a>FAQ</a>
                       <ul>
-                        <li>
+                        <li className={`${pathname === "/faqs/faqs-general" ? "current" : ""}`}>
                           <a href="/faqs/faqs-general">General FAQs</a>
                         </li>
-                        <li>
+                        <li className={`${pathname === "/faqs/sliding-window-repairs-faqs" ? "current" : ""}`}>
                           <a href="/faqs/sliding-window-repairs-faqs">Sliding Window Repairs FAQ</a>
                         </li>
 
@@ -153,7 +154,7 @@ export default function Header() {
 
                       </ul>
                     </li>
-                    <li>
+                    <li className={`${pathname === "/contact-us" ? "current" : ""}`}>
                       <a href="/contact-us">Contact</a>
                     </li>
                   </ul>
@@ -304,27 +305,27 @@ export default function Header() {
         <div className="social-links">
           <ul className="clearfix">
             <li>
-              <a href="index.html">
+              <a href="i#">
                 <span className="fab fa-twitter" />
               </a>
             </li>
             <li>
-              <a href="index.html">
+              <a href="#">
                 <span className="fab fa-facebook-square" />
               </a>
             </li>
             <li>
-              <a href="index.html">
+              <a href="#">
                 <span className="fab fa-pinterest-p" />
               </a>
             </li>
             <li>
-              <a href="index.html">
+              <a href="#">
                 <span className="fab fa-instagram" />
               </a>
             </li>
             <li>
-              <a href="index.html">
+              <a href="#">
                 <span className="fab fa-youtube" />
               </a>
             </li>

@@ -2,30 +2,29 @@
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
-import Slider from "@/components/Slider";
+// import Slider from "@/components/Slider";
 import type { Metadata } from 'next'
+import { Carousel } from "@/components/Carousel";
+
+
+
 
 export const metadata: Metadata = {
   title: 'Affordable Sliding Door Repairs',
   description: 'The Sydney Sliding Doors Repairs team can service the whole Sydney metro area so give us a call today on 0401 349 821 for all your sliding door repairs.',
 }
 
-export default function Home() {
+export default function Test() {
   return (
 <>
-  <meta charSet="utf-8" />
-  <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-  />
+
 
   <div className="boxed_wrapper">
 
 
     <Header/>
 
-    <Slider/>
+<Carousel />
 
 
     <section className="service-section bg-color-1">

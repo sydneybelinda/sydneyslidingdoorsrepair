@@ -13,21 +13,14 @@ export const metadata: Metadata = {
 }
 
 
-import { Accordion } from "react-bootstrap";
-
 export default function Contact(){
   return (
 <>
-
-  {/* page wrapper */}
   <div className="boxed_wrapper">
 
-    {/* preloader */}
-    {/* main header */}
+
     <Header/>
 
-    {/* End Mobile Menu */}
-    {/* Page Title */}
     <section
       className="page-title centred"
       style={{
@@ -122,9 +115,7 @@ export default function Contact(){
   <Footer />
 <ScrollToTop/>
   </div>
-  {/* jequery plugins */}
-  {/* main-js */}
-  {/* End of .page_wrapper */}
+
 </>
 
 
