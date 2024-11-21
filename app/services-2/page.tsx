@@ -6,6 +6,12 @@ import ScrollToTop from "@/components/ScrollToTop";
 import SideBar from "@/components/SideBar";
 import Quote from "@/components/Quote";
 import Link from "next/link";
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Sliding Door repairs Services | Sydney Sliding Doors Repair - Cost Effective Sliding Door Repairs',
+  description: 'Find out our full range of Sliding door repair services for the Sydney Metro area. Give us a call today on 0401 349 821"',
+}
 
 export default function Services() {
   return (
@@ -16,14 +22,7 @@ export default function Services() {
     name="viewport"
     content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
   />
-  <title>Dormatic - HTML 5 Template Preview</title>
-  {/* Fav Icon */}
-  <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
-  {/* Google Fonts */}
-  <link
-    href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-    rel="stylesheet"
-  />
+
 
   {/* page wrapper */}
   <div className="boxed_wrapper">
@@ -36,7 +35,7 @@ export default function Services() {
     <section
       className="page-title centred"
       style={{
-        backgroundImage: "url(assets/images/about-image.png)"
+        backgroundImage: "url(/assets/images/about-image.png)"
       }}
     >
       <div className="auto-container">

@@ -6,6 +6,12 @@ import ScrollToTop from "@/components/ScrollToTop";
 import Quote from "@/components/Quote";
 import SideBar from "@/components/SideBar";
 import Link from "next/link";
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Testimonials | Sydney Sliding Doors Repair - Cost Effective Sliding Door Repairs',
+  description: 'The Sydney Sliding Doors Repairs team can service the whole Sydney metro area so give us a call today on 0401 349 821 for all your sliding door repairs.',
+}
 
 export default function Testimonials(){
   return (

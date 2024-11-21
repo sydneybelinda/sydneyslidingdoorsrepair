@@ -6,6 +6,12 @@ import ScrollToTop from "@/components/ScrollToTop";
 import SideBar from "@/components/SideBar";
 import Quote from "@/components/Quote";
 import Link from "next/link";
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'About Us | Call 0401 349 821 | Sydney Sliding Doors Repair - Cost Effective Sliding Door Repairs',
+  description: 'We have been established and working in the Sydney area for the last thirty years. You will be guaranteed to open and close your door with one-finger once we have completed your sliding door repair.',
+}
 
 export default function Home() {
   return (
@@ -16,7 +22,7 @@ export default function Home() {
     name="viewport"
     content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
   />
-  <title>Dormatic - HTML 5 Template Preview</title>
+
   {/* Fav Icon */}
   <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
   {/* Google Fonts */}

@@ -6,8 +6,15 @@ import ScrollToTop from "@/components/ScrollToTop";
 import Quote from "@/components/Quote";
 import SideBar from "@/components/SideBar";
 import Link from "next/link";
+import type { Metadata } from 'next'
 
-export default function Woolahra(){
+export const metadata: Metadata = {
+  title: 'Sliding door Guarantee | Sydney Sliding Doors Repair - Cost Effective Sliding Door Repairs',
+  description: 'We&#039;ve got your covered with our unique 8 point Guarantee. Find out how we can offer you the best possible sliding door repair and back it up with our Guarantee.',
+}
+
+
+export default function Guarantee(){
   return (
 <>
 

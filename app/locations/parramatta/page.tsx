@@ -6,6 +6,12 @@ import ScrollToTop from "@/components/ScrollToTop";
 import Quote from "@/components/Quote";
 import SideBar from "@/components/SideBar";
 import Link from "next/link";
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Parramatta | Call 0401 349 821 | Sydney Sliding Doors Repair - Cost Effective Sliding Door Repairs',
+  description: 'Performing high qwuality sliding door repairs for clients located in the Parramatta Area.  Fast, friendly and professional service ',
+}
 
 export default function Parramatta(){
   return (

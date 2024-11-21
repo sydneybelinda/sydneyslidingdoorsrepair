@@ -1,11 +1,17 @@
-// import Image from "next/image";
-// import styles from "./page.module.css";
+
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
 import Quote from "@/components/Quote";
 import SideBar from "@/components/SideBar";
 import Link from "next/link";
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Bondi | Call 0401 349 821 | Sydney Sliding Doors Repair - Cost Effective Sliding Door Repairs',
+  description: 'Performing high qwuality sliding door repairs for clients located in the Bondi Area.  Fast, friendly and professional service ',
+}
+
 
 export default function Bondi(){
   return (

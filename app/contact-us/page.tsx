@@ -1,17 +1,21 @@
-"use client"
-// import Image from "next/image";
-// import styles from "./page.module.css";
+
 import Header from "@/components/Hesader";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
 import Quote from "@/components/Quote";
 import SideBar from "@/components/SideBar";
 import Link from "next/link";
-//import Acc from "@/components/Accordian";
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Contact Us | Call 0401 349 821 | Sydney Sliding Doors Repair - Cost Effective Sliding Door Repairs',
+  description: 'We look forward to hearing from you and discuss how we can help find a cost-effective solution to your sliding door issues. Don&#039;t hesitate to give us a call and let the professionals answer your questions.',
+}
+
 
 import { Accordion } from "react-bootstrap";
 
-export default function FAQGenral(){
+export default function Contact(){
   return (
 <>
 
