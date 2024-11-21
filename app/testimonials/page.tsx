@@ -23,7 +23,7 @@ export default function Testimonials(){
     <section
       className="page-title centred"
       style={{
-        backgroundImage: "url(assets/images/about-image.png)"
+        backgroundImage: "url(/assets/images/about-image.png)"
       }}
     >
       <div className="auto-container">

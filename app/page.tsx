@@ -523,8 +523,8 @@ export default function Home() {
                           alt=""
                         />
                       </figure>
-                      <h4>Aaron Finch</h4>
-                      <span className="designation">Newyork, USA</span>
+                      <h4>Stuart Pearson</h4>
+                      <span className="designation">Sydney</span>
                       <ul className="rating clearfix">
                         <li>
                           <i className="fas fa-star" />
@@ -565,8 +565,8 @@ export default function Home() {
                           alt=""
                         />
                       </figure>
-                      <h4>Luke Braxton</h4>
-                      <span className="designation">Washington DC, USA</span>
+                      <h4>Alexis Brandon</h4>
+                      <span className="designation">Waterloo</span>
                       <ul className="rating clearfix">
                         <li>
                           <i className="fas fa-star" />
