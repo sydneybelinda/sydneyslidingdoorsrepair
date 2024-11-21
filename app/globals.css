@@ -155,8 +155,16 @@ h3{margin-top:30px !important}
 .embla__slide {
   flex: 0 0 100%;
   min-width: 0;
-  /* height: 100vh; */
 }
+
+
+
+.banner-carousel .content-box *{
+opacity: 1 !important;
+}
+
+
+
 @media only screen and (max-width: 499px) {
   .banner-carousel .slide-item {
       padding-top: 120px !important;
@@ -169,5 +177,5 @@ h3{margin-top:30px !important}
   background-position: center;
   background-size: cover;
   padding: 230px 0px 170px 0px;
-  padding-top: 140px !important;
+  padding-top: 30px !important;
 }

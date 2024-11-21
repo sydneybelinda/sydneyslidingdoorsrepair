@@ -4,8 +4,10 @@ import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
 // import Slider from "@/components/Slider";
 import type { Metadata } from 'next'
+// import { Carousel } from "@/components/Carousel";
+import { EmblaOptionsType } from 'embla-carousel'
+// import EmblaCarousel from "@/components/EmblaCarousel";
 import { Carousel } from "@/components/Carousel";
-
 
 
 
@@ -13,6 +15,10 @@ export const metadata: Metadata = {
   title: 'Affordable Sliding Door Repairs',
   description: 'The Sydney Sliding Doors Repairs team can service the whole Sydney metro area so give us a call today on 0401 349 821 for all your sliding door repairs.',
 }
+
+const OPTIONS: EmblaOptionsType = { axis: 'y', loop: true }
+const SLIDE_COUNT = 5
+const SLIDES = Array.from(Array(SLIDE_COUNT).keys())
 
 export default function Test() {
   return (
@@ -24,7 +30,8 @@ export default function Test() {
 
     <Header/>
 
-<Carousel />
+    {/* <EmblaCarousel slides={SLIDES} options={OPTIONS} /> */}
+    <Carousel />
 
 
     <section className="service-section bg-color-1">
@@ -106,7 +113,7 @@ export default function Test() {
             <div className="inner-box">
               <figure className="image-box">
                 <a href="service-details-3.html">
-                  <img src="assets/images/door3.jpg" alt="" 
+                  <img src="/assets/images/door3.jpg" alt="" 
                   className="serv-im-height"/>
                 </a>
               </figure>
@@ -151,7 +158,7 @@ export default function Test() {
 
     <section className="chooseus-section">
       <figure className="icon-layer">
-        <img src="assets/images/icons/icon-10.png" alt="" />
+        <img src="/assets/images/icons/icon-10.png" alt="" />
       </figure>
       <div className="auto-container">
         <div className="sec-title">
@@ -169,7 +176,7 @@ export default function Test() {
                   className="inner-box"
                   style={{
                     backgroundImage:
-                      "url(assets/images/resource/chooseus-1.jpg)"
+                      "url(/assets/images/resource/chooseus-1.jpg)"
                   }}
                 >
                   <div className="text">
@@ -248,7 +255,7 @@ export default function Test() {
                   >
                     <div className="inner-box">
                       <figure className="icon-box">
-                        <img src="assets/images/icons/icon-4.png" alt="" />
+                        <img src="/assets/images/icons/icon-4.png" alt="" />
                         <div className="icon-shape" />
                       </figure>
                       <h3>TImekeeping</h3>

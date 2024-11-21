@@ -1,4 +1,8 @@
 "use client"
+
+
+
+
 import localFont from "next/font/local";
 
 import Script from "next/script";
@@ -38,6 +42,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+
   const pathname = usePathname();
 
   return (
@@ -73,7 +78,7 @@ export default function RootLayout({
 
 
     <Script  src="/assets/js/script.js" />
-      <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+      <link rel="icon" href="/assets/favicon.ico" type="image/x-icon" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}

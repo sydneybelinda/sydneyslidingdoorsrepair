@@ -5,12 +5,19 @@ import useEmblaCarousel from 'embla-carousel-react'
 import Autoplay from 'embla-carousel-autoplay'
 import Fade from 'embla-carousel-fade'
 
+
 export function Carousel() {
-  const [emblaRef] = useEmblaCarousel({ loop: false }, [Autoplay(), Fade()])
+  const [emblaRef, emblaApi] = useEmblaCarousel({ loop: false }, [Autoplay(), Fade()])
+
+  useEffect(() => {
+    if (emblaApi) {
+      console.log(emblaApi.slideNodes()) // Access API
+    }
+  }, [emblaApi])
 
   return (
     <section className="banner-section">
-      <div  className="banner-carousel owl-theme owl-carousel owl-nav-none">
+      <div  className="banner-carousel ">
 
     <div className="embla" ref={emblaRef}>
       <div className="embla__container">

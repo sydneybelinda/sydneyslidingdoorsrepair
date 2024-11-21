@@ -1985,6 +1985,11 @@ parent-module@^1.0.0:
   dependencies:
     callsites "^3.0.0"
 
+passive-events-support@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/passive-events-support/-/passive-events-support-1.1.0.tgz#243d9597ac3f921f3173836c9f78515c0ec392f0"
+  integrity sha512-MNkNItIS7Ufwp0OrBIImkYlJmGmdFullI7KaEUPnKRpxf/QYQu6rI1VpCXVnW2LiRcnKPcpLvwFY5KfXOXqqWA==
+
 path-exists@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/path-exists/-/path-exists-4.0.0.tgz#513bdbe2d3b95d7762e8c1137efa195c6c61b5b3"
