@@ -163,12 +163,34 @@ h3{margin-top:30px !important}
 opacity: 1 !important;
 }
 
-
+.call-now {
+  display:none
+}
 
 @media only screen and (max-width: 499px) {
   .banner-carousel .slide-item {
       padding-top: 120px !important;
   }
+
+  .call-now {
+  position: fixed;
+  bottom: 45px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 3;
+  display: block !important;
+  }
+
+  .call-now a {
+    width: 100%;
+}
+
+.call-now .wrapper{
+  margin-left: 20px;
+  margin-right: 110px;
+}
+
 }
 
 .banner-carousel .slide-item {
@@ -182,4 +204,8 @@ opacity: 1 !important;
 
 .banner-carousel .content-box .btn-box .call-now .inner h3 {
 margin-top: 0 !important
+}
+
+.call-now {
+  display:none
 }

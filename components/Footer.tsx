@@ -1,4 +1,5 @@
 import Link from "next/link"
+import CallNowButton from "./CallNowButton"
 
 export default function Footer() {
   
@@ -164,6 +165,7 @@ export default function Footer() {
     </div>
   </div>
 </div>
+<CallNowButton />
 </footer>
    )
 }
