@@ -157,18 +157,13 @@ export default function Services() {
 
         <Quote />
 
-
-
-        {/* service-form-section end */}
         <Footer />
         <ScrollToTop />
 
-        {/*Scroll to top*/}
+
 
       </div >
-      {/* jequery plugins */}
-      {/* main-js */}
-      {/* End of .page_wrapper */}
+
     </>
 
   );

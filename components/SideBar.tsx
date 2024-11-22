@@ -10,12 +10,12 @@ export default function SideBar() {
           <div className="widget-content">
             <ul className="category-list clearfix">
               <li>
-                <a href="service-details.html" className="current">
+                <a href="/services-2/roller-door-repairs" className="current">
                   Roller Door Repair
                 </a>
               </li>
               <li>
-                <a href="/services-2">Aluminium doors</a>
+                <a href="/services-2/aluminum-doors">Aluminium doors</a>
               </li>
               <li>
                 <a href="/services-2">Sliding windows</a>
