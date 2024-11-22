@@ -174,7 +174,7 @@ opacity: 1 !important;
 
   .call-now {
   position: fixed;
-  bottom: 45px;
+  bottom: 20px;
   left: 0;
   right: 0;
   text-align: center;
@@ -184,7 +184,21 @@ opacity: 1 !important;
 
   .call-now a {
     width: 100%;
+    background-color: #66dce9 !important; 
+    color: black !important;
 }
+
+.call-now a:after {
+
+  background: #21cf28 !important
+}
+
+.call-now a:before {
+
+  background: #21cf28 !important
+}
+
+
 
 .call-now .wrapper{
   margin-left: 20px;
@@ -208,4 +222,8 @@ margin-top: 0 !important
 
 .call-now {
   display:none
+}
+
+.scroll-top.open {
+  bottom: 20px !important
 }
