@@ -13,46 +13,46 @@ export const metadata: Metadata = {
 }
 
 
-export default function QuotePage(){
+export default function QuotePage() {
   return (
-<>
+    <>
 
 
-  <div className="boxed_wrapper">
+      <div className="boxed_wrapper">
 
-    <Header/>
+        <Header />
 
-    <section
-      className="page-title centred"
-      style={{
-        backgroundImage: "url(/assets/images/about-image.png)"
-      }}
-    >
-      <div className="auto-container">
-        <div className="content-box">
-          <div className="title">
-            <h1>Quote</h1>
+        <section
+          className="page-title centred"
+          style={{
+            backgroundImage: "url(/assets/images/about-image.png)"
+          }}
+        >
+          <div className="auto-container">
+            <div className="content-box">
+              <div className="title">
+                <h1>Quote</h1>
+              </div>
+              <ul className="bread-crumb clearfix">
+                <li>
+                  <Link href="/">Home</Link>
+                </li>
+                <li>Quote</li>
+              </ul>
+            </div>
           </div>
-          <ul className="bread-crumb clearfix">
-            <li>
-              <Link href="/">Home</Link>
-            </li>
-            <li>Quote</li>
-          </ul>
-        </div>
+        </section>
+
+        <Quote />
+
+
+
+
+        <Footer />
+        <ScrollToTop />
       </div>
-    </section>
 
-    <Quote />
-
-  
-
-
-  <Footer />
-<ScrollToTop/>
-  </div>
-
-</>
+    </>
 
 
   );
