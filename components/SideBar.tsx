@@ -60,7 +60,7 @@ export default function SideBar() {
                 <i className="icon-logo" />
               </div>
             </div>
-            <h3>Want Your sliding Door Fixed?<br/> <br/>We%apos;re Ready To Help You!</h3>
+            <h3>Want Your sliding Door Fixed?<br/> <br/>We&apos;re Ready To Help You!</h3>
             <a href="tel:12017193488" className="phone-box">
               <i className="icon-mob" />
               0401 349 821

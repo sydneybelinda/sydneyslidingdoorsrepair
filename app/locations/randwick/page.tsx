@@ -65,7 +65,7 @@ export default function Bondi() {
                             reliable, efficient, and affordable sliding door repair services throughout
                             Randwick and surrounding areas. With years of experience in the industry, we
                             take pride in offering professional solutions for all types of sliding doors
-                            – from glass doors to patio doors, bi-fold doors, and more. Whether it%apos;a
+                            – from glass doors to patio doors, bi-fold doors, and more. Whether it&apos;a
                             residential or commercial property, we have the tools and expertise to
                             ensure your sliding doors are operating smoothly and securely.
                           </p>
@@ -82,9 +82,9 @@ export default function Bondi() {
                           </h4>
                           <p>
                             Our team consists of highly skilled and trained technicians with extensive
-                            experience in sliding door repairs. We%apos;ve worked with all types of doors and
+                            experience in sliding door repairs. We&apos;ve worked with all types of doors and
                             have a deep understanding of common issues such as worn-out rollers,
-                            misaligned tracks, and broken locks. Whatever the problem may be, we%apos;ll
+                            misaligned tracks, and broken locks. Whatever the problem may be, we&apos;ll
                             diagnose and fix it promptly and efficiently.
                           </p>
                           <h4>
@@ -94,7 +94,7 @@ export default function Bondi() {
                             We know how inconvenient a faulty sliding door can be, so we aim to provide
                             fast service without compromising on quality. Our team is equipped with
                             state-of-the-art tools to get the job done right the first time, whether
-                            it%apos;a minor adjustment or a more complex repair.
+                            it&apos;a minor adjustment or a more complex repair.
                           </p>
                           <h4>
                             3. <strong>Affordable Solutions</strong>
@@ -140,7 +140,7 @@ export default function Bondi() {
                           <hr />
                           <h3>Our Sliding Door Repair Process</h3>
                           <p>
-                            We make the repair process as simple and hassle-free as possible. Here%apos;how
+                            We make the repair process as simple and hassle-free as possible. Here&apos;how
                             it works:
                           </p>
                           <ol>
@@ -149,7 +149,7 @@ export default function Bondi() {
                                 <strong>Initial Consultation</strong>
                                 <br />
                                 Contact us via phone, email, or our website to schedule a consultation.
-                                We will ask about the issue you%apos;re experiencing with your sliding door
+                                We will ask about the issue you&apos;re experiencing with your sliding door
                                 and offer an initial assessment. This helps us understand the problem
                                 and prepare for the service visit.
                               </p>
@@ -158,9 +158,9 @@ export default function Bondi() {
                               <p>
                                 <strong>On-Site Inspection</strong>
                                 <br />
-                                One of our expert technicians will visit your location at a time that%apos;s
+                                One of our expert technicians will visit your location at a time that&apos;s
                                 convenient for you. During this visit, we perform a thorough inspection
-                                of your sliding doors to determine the root cause of the issue. We%apos;ll
+                                of your sliding doors to determine the root cause of the issue. We&apos;ll
                                 explain the problem clearly and discuss the repair options available.
                               </p>
                             </li>
@@ -168,7 +168,7 @@ export default function Bondi() {
                               <p>
                                 <strong>Repair and Maintenance</strong>
                                 <br />
-                                Once you approve the plan, we%apos;ll begin the repair work. Depending on the
+                                Once you approve the plan, we&apos;ll begin the repair work. Depending on the
                                 issue, we may replace parts, realign tracks, or provide any other
                                 necessary repair. We strive to complete repairs quickly without
                                 compromising on quality.
@@ -178,8 +178,8 @@ export default function Bondi() {
                               <p>
                                 <strong>Post-Repair Check</strong>
                                 <br />
-                                After completing the repairs, we test the sliding door to ensure it%apos;s
-                                working like new. We%apos;ll make sure the door slides smoothly, locks
+                                After completing the repairs, we test the sliding door to ensure it&apos;s
+                                working like new. We&apos;ll make sure the door slides smoothly, locks
                                 securely, and that all components are functioning correctly.
                               </p>
                             </li>
@@ -196,7 +196,7 @@ export default function Bondi() {
                           <hr />
                           <h3>Areas We Serve</h3>
                           <p>
-                            While we%apos;re based in Randwick, <strong>Sydney Sliding Doors Repair</strong>{" "}
+                            While we&apos;re based in Randwick, <strong>Sydney Sliding Doors Repair</strong>{" "}
                             proudly serves surrounding suburbs in the Eastern Suburbs and greater Sydney
                             area. Our team is always ready to provide sliding door repair services to
                             homes and businesses in the following locations:
@@ -213,13 +213,13 @@ export default function Bondi() {
                             <li>And many more!</li>
                           </ul>
                           <p>
-                            If you%apos;re unsure whether we serve your area, just reach out, and we%apos;ll be
+                            If you&apos;re unsure whether we serve your area, just reach out, and we&apos;ll be
                             happy to confirm.
                           </p>
                           <hr />
                           <h3>Contact Us Today for Expert Sliding Door Repairs in Randwick!</h3>
                           <p>
-                            Are you dealing with a sliding door that%apos;stuck, noisy, or broken? Don%apos;t
+                            Are you dealing with a sliding door that&apos;stuck, noisy, or broken? Don&apos;t
                             wait for the problem to worsen. Call{" "}
                             <strong>Sydney Sliding Doors Repair</strong> today at [Your Phone Number] or
                             request a free quote through our website. Our friendly, professional team is

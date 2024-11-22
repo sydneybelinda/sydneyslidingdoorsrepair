@@ -126,7 +126,7 @@ They diligently and thoroughly disassembled the door and replaced all the broken
                       <p className="mb-20">
                       My house is around 15 years old and the sliding door at the side of the house was not operating as it should. It is quite a heavy door and it was coming off the tracks when we tried to open and close it. We actually got to the stage that because of this problem, and having to lift the door back onto the track all the time, we avoided using it at all. This was a problem in summer when we need more ventilation.</p>
                       <p className="mb-20">
-                      The fact is, we didn%apos;t think we could afford a new door – especially one of the same quality as the existing door.
+                      The fact is, we didn&apos;t think we could afford a new door – especially one of the same quality as the existing door.
 
                       </p>
 

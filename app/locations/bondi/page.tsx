@@ -73,7 +73,7 @@ export default function Bondi() {
                           <h3>Why Choose Sydney Sliding Doors Repair?</h3>
                           <p>
                             At <strong>Sydney Sliding Doors Repair</strong>, we understand the
-                            inconvenience of faulty sliding doors. That%apos;why we offer prompt and
+                            inconvenience of faulty sliding doors. That&apos;why we offer prompt and
                             efficient repair services to ensure your doors function smoothly. Our goal
                             is to provide Bondi residents with seamless door solutions that enhance the
                             comfort and security of your home or business.

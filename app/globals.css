@@ -179,3 +179,7 @@ opacity: 1 !important;
   padding: 230px 0px 170px 0px;
   padding-top: 30px !important;
 }
+
+.banner-carousel .content-box .btn-box .call-now .inner h3 {
+margin-top: 0 !important
+}

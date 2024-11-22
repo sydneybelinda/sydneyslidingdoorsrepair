@@ -103,7 +103,7 @@ export default function Services() {
                         You cannot afford to take chances with the safety of your loved ones, especially when the primary entrances to your home are vulnerable because of faults and repair needs.
                       </p>
                       <p>
-                        If you%apos;ve ever known someone who%apos;experienced a burglary – you%apos;ll appreciate the trauma and fear associated with the fact that an intruder has violated the sanctity of your privacy and potentially, threatened your security and safety.
+                        If you&apos;ve ever known someone who&apos;experienced a burglary – you&apos;ll appreciate the trauma and fear associated with the fact that an intruder has violated the sanctity of your privacy and potentially, threatened your security and safety.
                       </p>
                       <p>
                         sydneyslidingdoorsrepair.com.au have been attending to all forms of door repairs for the last thirty years. Our technology is designed to address every issue associated with door repairs.
@@ -136,7 +136,7 @@ export default function Services() {
                         No matter what the problem with your door, sydneyslidingdoorsrepair.com.au can assist you and carry out the full range of door repair services in the Sydney area.
                       </p>
                       <p>
-                        Why not call 0401 349 821 and talk to one of our friendly staff who will assist you with all your enquiries today. Our servicemen cover the whole of the Sydney metropolitan area so don%apos;t hesitate to contact us today.
+                        Why not call 0401 349 821 and talk to one of our friendly staff who will assist you with all your enquiries today. Our servicemen cover the whole of the Sydney metropolitan area so don&apos;t hesitate to contact us today.
                       </p>
                       <p>
                         sydneyslidingdoorsrepair.com.au has been operating in the Sydney metropolitan area since 1980. Over the years, we have accumulated a wealth of knowledge and experience in all door repairs and replacement. We deal with homes, shops, offices, factories and all commercial premises. Our advice on door repairs is second to none.

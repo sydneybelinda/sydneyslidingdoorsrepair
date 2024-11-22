@@ -59,7 +59,7 @@ export default function StGeorge() {
                         <div className="markdown prose w-full break-words dark:prose-invert light innex-box sd" >
                           <p>
                             Welcome to <strong>Sydney Sliding Doors Repair</strong>, your trusted
-                            experts for all sliding door repairs in the St George area. Whether you%apos;re
+                            experts for all sliding door repairs in the St George area. Whether you&apos;re
                             dealing with a stuck door, broken rollers, or damaged tracks, our
                             experienced team is here to provide reliable, efficient, and affordable
                             solutions for all your sliding door needs. We specialize in repairing,
@@ -69,10 +69,10 @@ export default function StGeorge() {
                           <h3>Why Choose Us?</h3>
                           <p>
                             At <strong>Sydney Sliding Doors Repair</strong>, we understand the
-                            frustration of a malfunctioning sliding door. It%apos;not just an
+                            frustration of a malfunctioning sliding door. It&apos;not just an
                             inconvenience, but can also pose a security risk. That&aposwhy we are
                             dedicated to delivering top-quality repairs to get your doors back on track
-                            quickly. Here%apos;why we%apos;re the leading choice in St George:
+                            quickly. Here&apos;why we&apos;re the leading choice in St George:
                           </p>
                           <ul>
                             <li>
@@ -95,7 +95,7 @@ export default function StGeorge() {
                               <p>
                                 <strong>Affordable Pricing</strong>: We believe in providing
                                 high-quality repairs at competitive prices. We offer upfront pricing, so
-                                you won%apos;t encounter any hidden costs. Our goal is to deliver value
+                                you won&apos;t encounter any hidden costs. Our goal is to deliver value
                                 without compromising on quality.
                               </p>
                             </li>
@@ -131,12 +131,12 @@ export default function StGeorge() {
                             </li>
                           </ul>
                           <h3>Our Process</h3>
-                          <p>When you contact us for a repair, here%apos;what you can expect:</p>
+                          <p>When you contact us for a repair, here&apos;what you can expect:</p>
                           <ol>
                             <li>
                               <p>
                                 <strong>Contact Us</strong>: Call or fill out our online form to
-                                schedule an appointment. We%apos;ll ask you about the issue you&apos;re
+                                schedule an appointment. We&apos;ll ask you about the issue you&apos;re
                                 experiencing with your sliding door.
                               </p>
                             </li>
@@ -149,15 +149,15 @@ export default function StGeorge() {
                             </li>
                             <li>
                               <p>
-                                <strong>Repair Plan</strong>: Based on the inspection, we%apos;ll provide you
-                                with a detailed plan of action and an upfront quote. We%apos;ll explain the
+                                <strong>Repair Plan</strong>: Based on the inspection, we&apos;ll provide you
+                                with a detailed plan of action and an upfront quote. We&apos;ll explain the
                                 repair process and answer any questions you have.
                               </p>
                             </li>
                             <li>
                               <p>
                                 <strong>Repair &amp; Completion</strong>: Once you approve the plan,
-                                we%apos;ll begin the repair work. Our technicians work efficiently to
+                                we&apos;ll begin the repair work. Our technicians work efficiently to
                                 complete the job, leaving your sliding door looking and functioning like
                                 new.
                               </p>
@@ -171,8 +171,8 @@ export default function StGeorge() {
                             </li>
                             <li>
                               <p>
-                                <strong>Ongoing Support</strong>: We%apos;re always available if you need
-                                advice or further support. Our job isn%apos;t done until you&apos;re completely
+                                <strong>Ongoing Support</strong>: We&apos;re always available if you need
+                                advice or further support. Our job isn&apos;t done until you&apos;re completely
                                 satisfied with our work.
                               </p>
                             </li>
@@ -218,14 +218,14 @@ export default function StGeorge() {
                           </p>
                           <h3>Testimonials</h3>
                           <p>
-                            Here%apos;what some of our satisfied customers have to say about our services:
+                            Here&apos;what some of our satisfied customers have to say about our services:
                           </p>
                           <ul>
                             <li>
                               <p>
                                 <em>
                                   “I had my sliding door repaired by Sydney Sliding Doors Repair, and I
-                                  couldn%apos;t be happier. They were on time, affordable, and the door now
+                                  couldn&apos;t be happier. They were on time, affordable, and the door now
                                   works like new. Highly recommend!”
                                 </em>{" "}
                                 – Sarah W., Kogarah
@@ -244,8 +244,8 @@ export default function StGeorge() {
                             <li>
                               <p>
                                 <em>
-                                  “I%apos;ve been using Sydney Sliding Doors Repair for regular maintenance,
-                                  and they%apos;ve kept my doors running smoothly. They%apos;re my go-to service
+                                  “I&apos;ve been using Sydney Sliding Doors Repair for regular maintenance,
+                                  and they&apos;ve kept my doors running smoothly. They&apos;re my go-to service
                                   for any sliding door issues.”
                                 </em>{" "}
                                 – Lisa H., Rockdale
@@ -254,7 +254,7 @@ export default function StGeorge() {
                           </ul>
                           <h3>Get in Touch Today!</h3>
                           <p>
-                            Don%apos;t let a faulty sliding door ruin your day. Contact{" "}
+                            Don&apos;t let a faulty sliding door ruin your day. Contact{" "}
                             <strong>Sydney Sliding Doors Repair</strong> for expert sliding door repairs
                             in St George. Call us at [phone number] or fill out our online contact form
                             to book a service. We offer free quotes and fast, reliable repairs to keep
